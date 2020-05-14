@@ -118,3 +118,5 @@ https://habr.com/ru/company/skillbox/blog/437348/
 https://habr.com/ru/post/467733/
 - Работаем с таймзонами правильно
  https://habr.com/ru/company/mailru/blog/242645/
+- Patterns for Managing Source Code Branches (Martin Fowler)
+https://martinfowler.com/articles/branching-patterns.html
