@@ -11,7 +11,7 @@ http://tutorials.jenkov.com/java-concurrency/non-blocking-algorithms.html
 
 # Java:
 - A curated list of awesome Java frameworks, libraries and software.
-https://github.com/akullpp/awesome-java#build
+https://github.com/akullpp/awesome-java
 - Java Objects Inside Out (Shipilev)
 https://shipilev.net/jvm/objects-inside-out/
 - API, ради которых наконец-то стоит обновиться с Java 8
