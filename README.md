@@ -1,14 +1,6 @@
 # usefullinks
 Useful programming links
 
-# Concurrency
-- Code Review Checklist: Java Concurrency:
-https://github.com/code-review-checklists/java-concurrency
-- Java Multithreading for Senior Engineering Interviews
-https://www.educative.io/courses/java-multithreading-for-senior-engineering-interviews
-- Non-blocking Algorithms
-http://tutorials.jenkov.com/java-concurrency/non-blocking-algorithms.html
-
 # Java:
 - A curated list of awesome Java frameworks, libraries and software.
 https://github.com/akullpp/awesome-java
@@ -22,6 +14,14 @@ https://habr.com/ru/post/423305/
 https://habr.com/ru/post/269621/
 - Инструменты для запуска и разработки Java приложений, компиляция, выполнение на JVM
 https://habr.com/ru/post/471772/
+
+# Concurrency
+- Code Review Checklist: Java Concurrency:
+https://github.com/code-review-checklists/java-concurrency
+- Java Multithreading for Senior Engineering Interviews
+https://www.educative.io/courses/java-multithreading-for-senior-engineering-interviews
+- Non-blocking Algorithms
+http://tutorials.jenkov.com/java-concurrency/non-blocking-algorithms.html
 
 # Microservies & Architecture:
 - How to Design a Web Application: Software Architecture 101
