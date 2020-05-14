@@ -16,6 +16,10 @@ https://shipilev.net/jvm/objects-inside-out/
 https://habr.com/ru/post/485750/
 - Разборы кейсов с производительностью в Java
 https://habr.com/ru/post/423305/
+- Описание работы сборщиков мусора (Дюк, вынеси мусор)
+https://habr.com/ru/post/269621/
+- Инструменты для запуска и разработки Java приложений, компиляция, выполнение на JVM
+https://habr.com/ru/post/471772/
 
 # Microservies & Architecture:
 - How to Design a Web Application: Software Architecture 101
