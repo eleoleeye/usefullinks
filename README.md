@@ -92,6 +92,8 @@ https://vladmihalcea.com/hibernate-performance-tuning-tips/
 # Common links 
 - Руководство по кросс-доменным запросам (CORS)
 https://grishaev.me/cors/
+- Cross-Site Request Forgery (CSRF) Prevention Cheat Sheet
+https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/Cross-Site_Request_Forgery_Prevention_Cheat_Sheet.md
 - Browser Fingerprint – анонимная идентификация браузеров
 https://habr.com/ru/company/oleg-bunin/blog/321294/
 - Как работают браузеры: принципы работы современных веб-браузеров
@@ -110,5 +112,3 @@ https://habr.com/ru/company/skillbox/blog/437348/
 https://habr.com/ru/post/467733/
 - Работаем с таймзонами правильно
  https://habr.com/ru/company/mailru/blog/242645/
-- Cross-Site Request Forgery (CSRF) Prevention Cheat Sheet
-https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/Cross-Site_Request_Forgery_Prevention_Cheat_Sheet.md
