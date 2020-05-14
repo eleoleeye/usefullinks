@@ -18,8 +18,6 @@ https://habr.com/ru/post/485750/
 https://habr.com/ru/post/423305/
 
 # Microservies & Architecture:
-- Spring Cloud Netflix Microservices — start project (серия статей)
-https://medium.com/@kirill.sereda/spring-cloud-netflix-microservices-start-project-%D1%81%D0%B5%D1%80%D0%B8%D1%8F-%D1%81%D1%82%D0%B0%D1%82%D0%B5%D0%B9-%D1%87%D0%B0%D1%81%D1%82%D1%8C-1-7a892ad5f16
 - How to Design a Web Application: Software Architecture 101
 https://www.educative.io/blog/how-to-design-a-web-application-software-architecture-101
 - Grokking the System Design Interview
@@ -28,6 +26,8 @@ https://www.educative.io/courses/grokking-the-system-design-interview
 https://github.com/donnemartin/system-design-primer
 - Resilience design patterns: retry, fallback, timeout, circuit breaker
 https://blog.codecentric.de/en/2019/06/resilience-design-patterns-retry-fallback-timeout-circuit-breaker/
+- Spring Cloud Netflix Microservices — start project (серия статей)
+https://medium.com/@kirill.sereda/spring-cloud-netflix-microservices-start-project-%D1%81%D0%B5%D1%80%D0%B8%D1%8F-%D1%81%D1%82%D0%B0%D1%82%D0%B5%D0%B9-%D1%87%D0%B0%D1%81%D1%82%D1%8C-1-7a892ad5f16
 
 # Spring:
 - My notes for preparing for Spring Professional Certification
