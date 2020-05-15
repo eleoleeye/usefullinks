@@ -16,6 +16,10 @@ https://habr.com/ru/post/269621/
 https://habr.com/ru/post/471772/
 - Анализ Thread Dump
 https://habr.com/ru/company/otus/blog/427513/
+- Java VM Options You Should Always Use in Production
+https://blog.sokolenko.me/2014/11/javavm-options-production.html
+- В статье рассказывается про ковариантность, контр-вариантность, инвариантность, бивариантность. Вообщем про дженерики в джаве 
+https://llorllale.github.io/java-variance/
 
 # Concurrency
 - Code Review Checklist: Java Concurrency:
@@ -24,6 +28,8 @@ https://github.com/code-review-checklists/java-concurrency
 https://www.educative.io/courses/java-multithreading-for-senior-engineering-interviews
 - Non-blocking Algorithms
 http://tutorials.jenkov.com/java-concurrency/non-blocking-algorithms.html
+- Java 8: Writing asynchronous code with CompletableFuture
+https://www.deadcoderising.com/java8-writing-asynchronous-code-with-completablefuture
 
 # Microservies & Architecture:
 - How to Design a Web Application: Software Architecture 101
@@ -38,6 +44,8 @@ https://blog.codecentric.de/en/2019/06/resilience-design-patterns-retry-fallback
 https://habr.com/ru/post/501366/
 - Spring Cloud Netflix Microservices — start project (серия статей)
 https://medium.com/@kirill.sereda/spring-cloud-netflix-microservices-start-project-%D1%81%D0%B5%D1%80%D0%B8%D1%8F-%D1%81%D1%82%D0%B0%D1%82%D0%B5%D0%B9-%D1%87%D0%B0%D1%81%D1%82%D1%8C-1-7a892ad5f16
+- DDD, Hexagonal, Onion, Clean, CQRS… как я собрал всё это вместе
+https://habr.com/ru/post/427739/
 
 # Spring:
 - My notes for preparing for Spring Professional Certification
@@ -52,6 +60,8 @@ https://spring.io/blog
 http://www.ontheserverside.com/blog/2014/07/23/horizontal-and-vertical-scaling-strategies-for-batch-applications
 - A NEW ERA OF SPRING CLOUD
 https://piotrminkowski.com/2020/05/01/a-new-era-of-spring-cloud/
+- HTTP cache with Spring examples
+http://dolszewski.com/spring/http-cache-with-spring-examples/
 
 # Brokers:
 - Понимание брокеров сообщений. Изучение механики обмена сообщениями посредством ActiveMQ и Kafka
@@ -87,6 +97,14 @@ for database administrators and system developers
 http://www.interdb.jp/pg/
 - Блокировки в PostgreSQL: 4. Блокировки в памяти
 https://habr.com/ru/company/postgrespro/blog/466199/
+
+# Reactive 
+- Things I Wish I Knew When I Started Building Reactive Systems
+https://www.reactivesystems.eu/2017/01/31/things-i-wish-i-knew-when-i-started-building-reactive-systems.html
+
+# Algorithms
+- Guide to the HyperLogLog Algorithm
+https://www.baeldung.com/java-hyperloglog
 
 # Devops
 1. Kubernetes, микросервисы, CI/CD и докер для ретроградов: советы по обучению
@@ -128,8 +146,6 @@ https://danielmiessler.com/study/encoding-encryption-hashing-obfuscation/#encodi
 https://habr.com/ru/post/462437/
 - Повышаем продуктивность на GitHub: советы для новичков и не только
 https://habr.com/ru/company/skillbox/blog/437348/
-- Как разработчик, я никогда не знаю себе цену, потому что её нет. Но вся система построена так, как будто она есть
-https://habr.com/ru/post/467733/
 - Работаем с таймзонами правильно
  https://habr.com/ru/company/mailru/blog/242645/
 - Patterns for Managing Source Code Branches (Martin Fowler)
@@ -144,3 +160,12 @@ https://habr.com/ru/company/aktiv-company/blog/449442/
 https://habr.com/ru/post/437510/
 - Мифы о кэше процессора, в которые верят программисты
 https://habr.com/ru/post/354748/
+- Стажёр Вася и его истории об идемпотентности API
+https://habr.com/ru/company/yandex/blog/442762/
+
+
+# offtop
+- Salary Negotiation: Make More Money, Be More Valued
+https://www.kalzumeus.com/2012/01/23/salary-negotiation/
+- Как разработчик, я никогда не знаю себе цену, потому что её нет. Но вся система построена так, как будто она есть
+https://habr.com/ru/post/467733/
