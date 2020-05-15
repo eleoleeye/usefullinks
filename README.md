@@ -14,6 +14,8 @@ https://habr.com/ru/post/423305/
 https://habr.com/ru/post/269621/
 - Инструменты для запуска и разработки Java приложений, компиляция, выполнение на JVM
 https://habr.com/ru/post/471772/
+- Анализ Thread Dump
+https://habr.com/ru/company/otus/blog/427513/
 
 # Concurrency
 - Code Review Checklist: Java Concurrency:
@@ -32,6 +34,8 @@ https://www.educative.io/courses/grokking-the-system-design-interview
 https://github.com/donnemartin/system-design-primer
 - Resilience design patterns: retry, fallback, timeout, circuit breaker
 https://blog.codecentric.de/en/2019/06/resilience-design-patterns-retry-fallback-timeout-circuit-breaker/
+- Букварь по дизайну систем
+https://habr.com/ru/post/501366/
 - Spring Cloud Netflix Microservices — start project (серия статей)
 https://medium.com/@kirill.sereda/spring-cloud-netflix-microservices-start-project-%D1%81%D0%B5%D1%80%D0%B8%D1%8F-%D1%81%D1%82%D0%B0%D1%82%D0%B5%D0%B9-%D1%87%D0%B0%D1%81%D1%82%D1%8C-1-7a892ad5f16
 
@@ -81,6 +85,14 @@ https://habr.com/ru/company/wargaming/blog/323354/
 - The Internals of PostgreSQL
 for database administrators and system developers
 http://www.interdb.jp/pg/
+- Блокировки в PostgreSQL: 4. Блокировки в памяти
+https://habr.com/ru/company/postgrespro/blog/466199/
+
+# Devops
+1. Kubernetes, микросервисы, CI/CD и докер для ретроградов: советы по обучению
+https://habr.com/ru/company/itsumma/blog/499102/
+2. Полное руководство по Prometheus в 2019 году
+https://habr.com/ru/company/southbridge/blog/455290/
 
 # Tests :
 
@@ -120,3 +132,13 @@ https://habr.com/ru/post/467733/
  https://habr.com/ru/company/mailru/blog/242645/
 - Patterns for Managing Source Code Branches (Martin Fowler)
 https://martinfowler.com/articles/branching-patterns.html
+- О чем молчит EXPLAIN, и как его разговорить
+https://habr.com/ru/company/tensor/blog/477624/
+- Сложные системы. Выход на критический уровень
+https://habr.com/ru/post/452172/
+- Что будет с аутентификацией и паролями? Перевод отчета Javelin «Состояние строгой аутентификации» с комментариями
+https://habr.com/ru/company/aktiv-company/blog/449442/
+- Что происходит, когда вы отправляете SMS
+https://habr.com/ru/post/437510/
+- Мифы о кэше процессора, в которые верят программисты
+https://habr.com/ru/post/354748/
