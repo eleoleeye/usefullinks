@@ -106,6 +106,8 @@ https://phauer.com/2019/modern-best-practices-testing-java/
 https://habr.com/ru/company/leroy_merlin/blog/456662/
 - Hibernate performance tuning tips 
 https://vladmihalcea.com/hibernate-performance-tuning-tips/
+- Introduction to contract testing
+https://blog.scottlogic.com/2019/01/07/introduction-to-contract-testing-part-1.html
 
 # Common links 
 - Руководство по кросс-доменным запросам (CORS)
