@@ -162,10 +162,3 @@ https://habr.com/ru/post/437510/
 https://habr.com/ru/post/354748/
 - Стажёр Вася и его истории об идемпотентности API
 https://habr.com/ru/company/yandex/blog/442762/
-
-
-# offtop
-- Salary Negotiation: Make More Money, Be More Valued
-https://www.kalzumeus.com/2012/01/23/salary-negotiation/
-- Как разработчик, я никогда не знаю себе цену, потому что её нет. Но вся система построена так, как будто она есть
-https://habr.com/ru/post/467733/
