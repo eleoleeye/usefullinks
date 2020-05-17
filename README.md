@@ -6,8 +6,8 @@ Useful programming links
 https://github.com/akullpp/awesome-java
 - Java Objects Inside Out (Shipilev)
 https://shipilev.net/jvm/objects-inside-out/
-- API, ради которых наконец-то стоит обновиться с Java 8
-https://habr.com/ru/post/485750/
+- Варим байткод на кухне JVM
+https://habr.com/ru/company/domclick/blog/500646/
 - Разборы кейсов с производительностью в Java
 https://habr.com/ru/post/423305/
 - Описание работы сборщиков мусора (Дюк, вынеси мусор)
