@@ -162,3 +162,5 @@ https://habr.com/ru/post/437510/
 https://habr.com/ru/post/354748/
 - Стажёр Вася и его истории об идемпотентности API
 https://habr.com/ru/company/yandex/blog/442762/
+- Безопасность REST API
+https://habr.com/ru/post/503284/
