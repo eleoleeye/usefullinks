@@ -30,6 +30,10 @@ https://www.educative.io/courses/java-multithreading-for-senior-engineering-inte
 http://tutorials.jenkov.com/java-concurrency/non-blocking-algorithms.html
 - Java 8: Writing asynchronous code with CompletableFuture
 https://www.deadcoderising.com/java8-writing-asynchronous-code-with-completablefuture
+- Cache-coherency: Basics, MSI(помимо статьи, сам блог довольно интересен)
+https://dev.cheremin.info/2012/01/cache-coherency-basics-msi.html
+- Мифы о кэше процессора, в которые верят программисты
+https://habr.com/ru/post/354748/
 
 # Microservies & Architecture:
 - How to Design a Web Application: Software Architecture 101
@@ -97,6 +101,10 @@ for database administrators and system developers
 http://www.interdb.jp/pg/
 - Блокировки в PostgreSQL: 4. Блокировки в памяти
 https://habr.com/ru/company/postgrespro/blog/466199/
+- Больше разработчиков должны знать это о базах данных
+https://habr.com/ru/company/flant/blog/500850/
+- О чем молчит EXPLAIN, и как его разговорить
+https://habr.com/ru/company/tensor/blog/477624/
 
 # Reactive 
 - Things I Wish I Knew When I Started Building Reactive Systems
@@ -150,16 +158,12 @@ https://habr.com/ru/company/skillbox/blog/437348/
  https://habr.com/ru/company/mailru/blog/242645/
 - Patterns for Managing Source Code Branches (Martin Fowler)
 https://martinfowler.com/articles/branching-patterns.html
-- О чем молчит EXPLAIN, и как его разговорить
-https://habr.com/ru/company/tensor/blog/477624/
 - Сложные системы. Выход на критический уровень
 https://habr.com/ru/post/452172/
 - Что будет с аутентификацией и паролями? Перевод отчета Javelin «Состояние строгой аутентификации» с комментариями
 https://habr.com/ru/company/aktiv-company/blog/449442/
 - Что происходит, когда вы отправляете SMS
 https://habr.com/ru/post/437510/
-- Мифы о кэше процессора, в которые верят программисты
-https://habr.com/ru/post/354748/
 - Стажёр Вася и его истории об идемпотентности API
 https://habr.com/ru/company/yandex/blog/442762/
 - Безопасность REST API
