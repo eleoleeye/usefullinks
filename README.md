@@ -168,3 +168,5 @@ https://habr.com/ru/post/437510/
 https://habr.com/ru/company/yandex/blog/442762/
 - Безопасность REST API
 https://habr.com/ru/post/503284/
+- JWT guide
+https://gist.github.com/zmts/802dc9c3510d79fd40f9dc38a12bccfc
