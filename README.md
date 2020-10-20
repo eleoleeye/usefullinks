@@ -170,3 +170,6 @@ https://habr.com/ru/company/yandex/blog/442762/
 https://habr.com/ru/post/503284/
 - Token-Based Authentication
 https://gist.github.com/zmts/802dc9c3510d79fd40f9dc38a12bccfc
+- Сброс пароля 
+https://habr.com/ru/company/vdsina/blog/523690/
+https://habr.com/ru/company/vdsina/blog/524014/
