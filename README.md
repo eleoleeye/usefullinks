@@ -50,6 +50,8 @@ https://habr.com/ru/post/501366/
 https://medium.com/@kirill.sereda/spring-cloud-netflix-microservices-start-project-%D1%81%D0%B5%D1%80%D0%B8%D1%8F-%D1%81%D1%82%D0%B0%D1%82%D0%B5%D0%B9-%D1%87%D0%B0%D1%81%D1%82%D1%8C-1-7a892ad5f16
 - DDD, Hexagonal, Onion, Clean, CQRS… как я собрал всё это вместе
 https://habr.com/ru/post/427739/
+- Распределенные блокировки с применением Redis
+https://habr.com/ru/company/piter/blog/518218/
 
 # Spring:
 - My notes for preparing for Spring Professional Certification
