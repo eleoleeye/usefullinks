@@ -175,3 +175,5 @@ https://gist.github.com/zmts/802dc9c3510d79fd40f9dc38a12bccfc
 - Сброс пароля <br/>
 https://habr.com/ru/company/vdsina/blog/523690/ <br/>
 https://habr.com/ru/company/vdsina/blog/524014/ <br/>
+- Build you own X <br/>
+ https://github.com/danistefanovic/build-your-own-x
