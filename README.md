@@ -19,7 +19,7 @@ https://habr.com/ru/company/otus/blog/427513/
 - Java VM Options You Should Always Use in Production
 https://blog.sokolenko.me/2014/11/javavm-options-production.html
 - В статье рассказывается про ковариантность, контр-вариантность, инвариантность, бивариантность. Вообщем про дженерики в джаве 
-https://llorllale.github.io/java-variance/
+https://llorllale.github.io/posts/java-variance/
 
 # Concurrency
 - Code Review Checklist: Java Concurrency:
