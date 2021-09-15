@@ -107,6 +107,8 @@ https://habr.com/ru/company/postgrespro/blog/466199/
 https://habr.com/ru/company/flant/blog/500850/
 - О чем молчит EXPLAIN, и как его разговорить
 https://habr.com/ru/company/tensor/blog/477624/
+- Hibernate performance tuning tips 
+https://vladmihalcea.com/hibernate-performance-tuning-tips/
 
 # Reactive 
 - Things I Wish I Knew When I Started Building Reactive Systems
@@ -123,7 +125,6 @@ https://habr.com/ru/company/itsumma/blog/499102/
 https://habr.com/ru/company/southbridge/blog/455290/
 
 # Tests :
-
 - Как построить пирамиду в багажнике или Test-Driven Development приложений на Spring Boot
      https://habr.com/post/431306/
 - Пирамида тестов на практике
@@ -132,10 +133,17 @@ https://habr.com/ru/company/southbridge/blog/455290/
 https://phauer.com/2019/modern-best-practices-testing-java/
 - Как сэкономить на психотерапевте используя test-driven development
 https://habr.com/ru/company/leroy_merlin/blog/456662/
-- Hibernate performance tuning tips 
-https://vladmihalcea.com/hibernate-performance-tuning-tips/
 - Introduction to contract testing
 https://blog.scottlogic.com/2019/01/07/introduction-to-contract-testing-part-1.html
+
+#Auntification/Authorization
+- Token-Based Authentication
+https://gist.github.com/zmts/802dc9c3510d79fd40f9dc38a12bccfc
+- Сброс пароля <br/>
+https://habr.com/ru/company/vdsina/blog/523690/ <br/>
+https://habr.com/ru/company/vdsina/blog/524014/ <br/>
+- Что будет с аутентификацией и паролями? Перевод отчета Javelin «Состояние строгой аутентификации» с комментариями
+https://habr.com/ru/company/aktiv-company/blog/449442/
 
 # Common links 
 - Руководство по кросс-доменным запросам (CORS)
@@ -154,26 +162,17 @@ https://grishaev.me/timezone/
 https://danielmiessler.com/study/encoding-encryption-hashing-obfuscation/#encoding
 - Криптографические атаки: объяснение для смятённых умов
 https://habr.com/ru/post/462437/
-- Повышаем продуктивность на GitHub: советы для новичков и не только
-https://habr.com/ru/company/skillbox/blog/437348/
 - Работаем с таймзонами правильно
  https://habr.com/ru/company/mailru/blog/242645/
 - Patterns for Managing Source Code Branches (Martin Fowler)
 https://martinfowler.com/articles/branching-patterns.html
 - Сложные системы. Выход на критический уровень
 https://habr.com/ru/post/452172/
-- Что будет с аутентификацией и паролями? Перевод отчета Javelin «Состояние строгой аутентификации» с комментариями
-https://habr.com/ru/company/aktiv-company/blog/449442/
 - Что происходит, когда вы отправляете SMS
 https://habr.com/ru/post/437510/
 - Стажёр Вася и его истории об идемпотентности API
 https://habr.com/ru/company/yandex/blog/442762/
 - Безопасность REST API
 https://habr.com/ru/post/503284/
-- Token-Based Authentication
-https://gist.github.com/zmts/802dc9c3510d79fd40f9dc38a12bccfc
-- Сброс пароля <br/>
-https://habr.com/ru/company/vdsina/blog/523690/ <br/>
-https://habr.com/ru/company/vdsina/blog/524014/ <br/>
 - Build you own X <br/>
  https://github.com/danistefanovic/build-your-own-x
