@@ -20,6 +20,8 @@ https://habr.com/ru/company/otus/blog/427513/
 https://blog.sokolenko.me/2014/11/javavm-options-production.html
 - В статье рассказывается про ковариантность, контр-вариантность, инвариантность, бивариантность. Вообщем про дженерики в джаве 
 https://llorllale.github.io/posts/java-variance/
+- Java perfomance guide 
+http://java-performance.com/
 
 # Concurrency
 - Code Review Checklist: Java Concurrency:
@@ -68,10 +70,14 @@ http://www.ontheserverside.com/blog/2014/07/23/horizontal-and-vertical-scaling-s
 https://piotrminkowski.com/2020/05/01/a-new-era-of-spring-cloud/
 - HTTP cache with Spring examples
 http://dolszewski.com/spring/http-cache-with-spring-examples/
+- Spring Integration — динамические потоки данных
+https://habr.com/ru/post/509676/
 
 # Brokers:
 - Понимание брокеров сообщений. Изучение механики обмена сообщениями посредством ActiveMQ и Kafka
 https://habr.com/ru/post/466385/
+https://www.oreilly.com/library/view/kafka-the-definitive/9781491936153/ch04.html
+https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying
 
 # Databases & ORM & SQL:
 - What every developer should know about SQL performance
@@ -96,8 +102,6 @@ https://habr.com/ru/company/postgrespro/blog/465263/
 https://habr.com/ru/post/490824/
 - Индексы в PostgreSQL
 https://habr.com/ru/company/postgrespro/blog/326096/
-- Как мы ловим Deadlock`и на PostgreSQL и чиним их 
-https://habr.com/ru/company/wargaming/blog/323354/
 - The Internals of PostgreSQL
 for database administrators and system developers
 http://www.interdb.jp/pg/
@@ -110,9 +114,18 @@ https://habr.com/ru/company/tensor/blog/477624/
 - Hibernate performance tuning tips 
 https://vladmihalcea.com/hibernate-performance-tuning-tips/
 
+
+
 # Reactive 
 - Things I Wish I Knew When I Started Building Reactive Systems
 https://www.reactivesystems.eu/2017/01/31/things-i-wish-i-knew-when-i-started-building-reactive-systems.html
+- Реактивное программирование на Java: как, зачем и стоит ли?
+https://habr.com/ru/company/oleg-bunin/blog/543386/
+https://habr.com/ru/company/oleg-bunin/blog/545702/
+- Ненормальное реактивное программирование
+https://habr.com/ru/post/481716/
+- Путь самурая: от Servlet к Reactive Programming
+https://habr.com/ru/company/domclick/blog/504304/
 
 # Algorithms
 - Guide to the HyperLogLog Algorithm
