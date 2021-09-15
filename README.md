@@ -75,8 +75,8 @@ https://habr.com/ru/post/509676/
 
 # Brokers:
 - Понимание брокеров сообщений. Изучение механики обмена сообщениями посредством ActiveMQ и Kafka
-https://habr.com/ru/post/466385/
-https://www.oreilly.com/library/view/kafka-the-definitive/9781491936153/ch04.html
+https://habr.com/ru/post/466385/  <br/>
+https://www.oreilly.com/library/view/kafka-the-definitive/9781491936153/ch04.html  <br/>
 https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying
 
 # Databases & ORM & SQL:
