@@ -136,7 +136,7 @@ https://habr.com/ru/company/leroy_merlin/blog/456662/
 - Introduction to contract testing
 https://blog.scottlogic.com/2019/01/07/introduction-to-contract-testing-part-1.html
 
-#Auntification/Authorization
+# Auntification/Authorization
 - Token-Based Authentication
 https://gist.github.com/zmts/802dc9c3510d79fd40f9dc38a12bccfc
 - Сброс пароля <br/>
