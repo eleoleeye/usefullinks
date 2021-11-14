@@ -62,8 +62,6 @@ https://github.com/MrR0807/SpringCertification5.0
 https://github.com/AnghelLeonard/Hibernate-SpringBoot
 - All You Need To Know About Bean Validation With Spring Boot 
 https://reflectoring.io/bean-validation-with-spring-boot/
-- Spring blog 
-https://spring.io/blog
 - Horizontal and Vertical Scaling Strategies for Batch Applications
 http://www.ontheserverside.com/blog/2014/07/23/horizontal-and-vertical-scaling-strategies-for-batch-applications
 - A NEW ERA OF SPRING CLOUD
