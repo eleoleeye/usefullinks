@@ -26,10 +26,10 @@ http://java-performance.com/
 # Concurrency
 - Code Review Checklist: Java Concurrency:
 https://github.com/code-review-checklists/java-concurrency
+- Java Concurrency and Multithreading Tutorial
+http://tutorials.jenkov.com/java-concurrency/index.html
 - Java Multithreading for Senior Engineering Interviews
 https://www.educative.io/courses/java-multithreading-for-senior-engineering-interviews
-- Non-blocking Algorithms
-http://tutorials.jenkov.com/java-concurrency/non-blocking-algorithms.html
 - Java 8: Writing asynchronous code with CompletableFuture
 https://www.deadcoderising.com/java8-writing-asynchronous-code-with-completablefuture
 - Cache-coherency: Basics, MSI(помимо статьи, сам блог довольно интересен)
@@ -111,7 +111,6 @@ https://habr.com/ru/company/flant/blog/500850/
 https://habr.com/ru/company/tensor/blog/477624/
 - Hibernate performance tuning tips 
 https://vladmihalcea.com/hibernate-performance-tuning-tips/
-
 
 
 # Reactive 
