@@ -64,8 +64,6 @@ https://github.com/AnghelLeonard/Hibernate-SpringBoot
 https://reflectoring.io/bean-validation-with-spring-boot/
 - Horizontal and Vertical Scaling Strategies for Batch Applications
 http://www.ontheserverside.com/blog/2014/07/23/horizontal-and-vertical-scaling-strategies-for-batch-applications
-- A NEW ERA OF SPRING CLOUD
-https://piotrminkowski.com/2020/05/01/a-new-era-of-spring-cloud/
 - HTTP cache with Spring examples
 http://dolszewski.com/spring/http-cache-with-spring-examples/
 - Spring Integration — динамические потоки данных
