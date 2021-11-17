@@ -32,7 +32,6 @@ http://tutorials.jenkov.com/java-concurrency/index.html
 https://www.educative.io/courses/java-multithreading-for-senior-engineering-interviews
 - Classification and use of locks in Java
 https://www.fatalerrors.org/a/classification-and-use-of-locks-in-java.html
-
 - Java 8: Writing asynchronous code with CompletableFuture
 https://www.deadcoderising.com/java8-writing-asynchronous-code-with-completablefuture
 - Cache-coherency: Basics, MSI(помимо статьи, сам блог довольно интересен)
