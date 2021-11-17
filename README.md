@@ -6,6 +6,8 @@ Useful programming links
 https://github.com/akullpp/awesome-java
 - Java Objects Inside Out (Shipilev)
 https://shipilev.net/jvm/objects-inside-out/
+- Алексей Шипилёв - Java-объекты наизнанку
+https://www.youtube.com/watch?v=3BmznLJAgaA
 - Варим байткод на кухне JVM
 https://habr.com/ru/company/domclick/blog/500646/
 - Разборы кейсов с производительностью в Java
@@ -38,6 +40,10 @@ https://www.deadcoderising.com/java8-writing-asynchronous-code-with-completablef
 https://dev.cheremin.info/2012/01/cache-coherency-basics-msi.html
 - Мифы о кэше процессора, в которые верят программисты
 https://habr.com/ru/post/354748/
+- Алексей Шипилёв — Близкие Контакты JMM-степени
+https://www.youtube.com/watch?v=3BmznLJAgaA
+- Алексей Шипилёв — ForkJoinPool в Java 8
+https://www.youtube.com/watch?v=t0dGLFtRR9c
 
 # Microservies & Architecture:
 - How to Design a Web Application: Software Architecture 101
