@@ -45,7 +45,7 @@ https://www.youtube.com/watch?v=3BmznLJAgaA
 - Алексей Шипилёв — ForkJoinPool в Java 8
 https://www.youtube.com/watch?v=t0dGLFtRR9c
 
-# Microservies & Architecture:
+# System Design:
 - How to Design a Web Application: Software Architecture 101
 https://www.educative.io/blog/how-to-design-a-web-application-software-architecture-101
 - Grokking the System Design Interview
