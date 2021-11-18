@@ -48,8 +48,8 @@ https://www.youtube.com/watch?v=t0dGLFtRR9c
 # System Design:
 - How to Design a Web Application: Software Architecture 101
 https://www.educative.io/blog/how-to-design-a-web-application-software-architecture-101
-- Grokking the System Design Interview
-https://www.educative.io/courses/grokking-the-system-design-interview
+- Scalability & System Design course 
+https://www.educative.io/path/scalability-system-design
 - Learn how to design large-scale systems. Prep for the system design interview 
 https://github.com/donnemartin/system-design-primer
 - Resilience design patterns: retry, fallback, timeout, circuit breaker
