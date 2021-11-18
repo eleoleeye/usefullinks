@@ -62,6 +62,10 @@ https://medium.com/@kirill.sereda/spring-cloud-netflix-microservices-start-proje
 https://habr.com/ru/post/427739/
 - Распределенные блокировки с применением Redis
 https://habr.com/ru/company/piter/blog/518218/
+- Понимание брокеров сообщений. Изучение механики обмена сообщениями посредством ActiveMQ и Kafka
+https://habr.com/ru/post/466385/  <br/>
+https://www.oreilly.com/library/view/kafka-the-definitive/9781491936153/ch04.html  <br/>
+https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying
 
 # Spring:
 - My notes for preparing for Spring Professional Certification
@@ -76,12 +80,6 @@ http://www.ontheserverside.com/blog/2014/07/23/horizontal-and-vertical-scaling-s
 http://dolszewski.com/spring/http-cache-with-spring-examples/
 - Spring Integration — динамические потоки данных
 https://habr.com/ru/post/509676/
-
-# Brokers:
-- Понимание брокеров сообщений. Изучение механики обмена сообщениями посредством ActiveMQ и Kafka
-https://habr.com/ru/post/466385/  <br/>
-https://www.oreilly.com/library/view/kafka-the-definitive/9781491936153/ch04.html  <br/>
-https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying
 
 # Databases & ORM & SQL:
 - What every developer should know about SQL performance
@@ -130,9 +128,6 @@ https://habr.com/ru/post/481716/
 - Путь самурая: от Servlet к Reactive Programming
 https://habr.com/ru/company/domclick/blog/504304/
 
-# Algorithms
-- Guide to the HyperLogLog Algorithm
-https://www.baeldung.com/java-hyperloglog
 
 # Devops
 1. Kubernetes, микросервисы, CI/CD и докер для ретроградов: советы по обучению
