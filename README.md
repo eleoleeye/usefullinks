@@ -80,6 +80,8 @@ http://www.ontheserverside.com/blog/2014/07/23/horizontal-and-vertical-scaling-s
 http://dolszewski.com/spring/http-cache-with-spring-examples/
 - Spring Integration — динамические потоки данных
 https://habr.com/ru/post/509676/
+- Spring Transaction Management: @Transactional In-Depth 
+https://www.marcobehler.com/guides/spring-transaction-management-unconventional-guide
 
 # Databases & ORM & SQL:
 - What every developer should know about SQL performance
@@ -88,8 +90,8 @@ https://use-the-index-luke.com/sql/table-of-contents
 https://dzone.com/articles/50-best-performance-practices-for-hibernate-5-amp
 - Best Performance Practices for Hibernate 5 and Spring Boot 2 (part 2)
 https://dzone.com/articles/best-performance-practices-for-hibernate-5-and-spr
-- Spring Transaction Management: @Transactional In-Depth 
-https://www.marcobehler.com/guides/spring-transaction-management-unconventional-guide
+- Hibernate performance tuning tips 
+https://vladmihalcea.com/hibernate-performance-tuning-tips/
 - Блокировки в Postgres: 7 советов по работе с блокировками
 https://habr.com/ru/company/otus/blog/452986/
 -  Блог: Архитектура информационных систем, базы данных
@@ -97,7 +99,7 @@ https://habr.com/ru/users/kilor/posts/
 - PostgreSQL anti-patterns: read-modify-write cycles
 https://www.2ndquadrant.com/en/blog/postgresql-anti-patterns-read-modify-write-cycles/
 - Как работают реляционные базы данных 
-https://habr.com/ru/post/487654/
+https://habr.com/ru/company/vk/blog/266811/
 - Блокировки в PostgreSQL: 3. Блокировки других объектов
 https://habr.com/ru/company/postgrespro/blog/465263/
 - Здоровье индексов в PostgreSQL глазами Java-разработчика 
@@ -113,8 +115,6 @@ https://habr.com/ru/company/postgrespro/blog/466199/
 https://habr.com/ru/company/flant/blog/500850/
 - О чем молчит EXPLAIN, и как его разговорить
 https://habr.com/ru/company/tensor/blog/477624/
-- Hibernate performance tuning tips 
-https://vladmihalcea.com/hibernate-performance-tuning-tips/
 
 
 # Reactive 
