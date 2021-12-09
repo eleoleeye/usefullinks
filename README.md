@@ -94,8 +94,6 @@ https://dzone.com/articles/best-performance-practices-for-hibernate-5-and-spr
 https://vladmihalcea.com/hibernate-performance-tuning-tips/
 - Блокировки в Postgres: 7 советов по работе с блокировками
 https://habr.com/ru/company/otus/blog/452986/
--  Блог: Архитектура информационных систем, базы данных
-https://habr.com/ru/users/kilor/posts/
 - PostgreSQL anti-patterns: read-modify-write cycles
 https://www.2ndquadrant.com/en/blog/postgresql-anti-patterns-read-modify-write-cycles/
 - Как работают реляционные базы данных 
