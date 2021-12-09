@@ -92,14 +92,14 @@ https://dzone.com/articles/50-best-performance-practices-for-hibernate-5-amp
 https://dzone.com/articles/best-performance-practices-for-hibernate-5-and-spr
 - Hibernate performance tuning tips 
 https://vladmihalcea.com/hibernate-performance-tuning-tips/
-- Блокировки в Postgres: 7 советов по работе с блокировками
+- Блокировки в Postgres: советы по работе с блокировками
 https://habr.com/ru/company/otus/blog/452986/
 - PostgreSQL anti-patterns: read-modify-write cycles
 https://www.2ndquadrant.com/en/blog/postgresql-anti-patterns-read-modify-write-cycles/
 - Как работают реляционные базы данных 
 https://habr.com/ru/company/vk/blog/266811/
-- Блокировки в PostgreSQL: 3. Блокировки других объектов
-https://habr.com/ru/company/postgrespro/blog/465263/
+- Цикл статей о работе Postgresql
+https://habr.com/ru/company/postgrespro/blog/462877/
 - Здоровье индексов в PostgreSQL глазами Java-разработчика 
 https://habr.com/ru/post/490824/
 - Индексы в PostgreSQL
@@ -107,8 +107,6 @@ https://habr.com/ru/company/postgrespro/blog/326096/
 - The Internals of PostgreSQL
 for database administrators and system developers
 http://www.interdb.jp/pg/
-- Блокировки в PostgreSQL: 4. Блокировки в памяти
-https://habr.com/ru/company/postgrespro/blog/466199/
 - Больше разработчиков должны знать это о базах данных
 https://habr.com/ru/company/flant/blog/500850/
 - О чем молчит EXPLAIN, и как его разговорить
