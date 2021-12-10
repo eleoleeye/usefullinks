@@ -105,10 +105,6 @@ https://habr.com/ru/post/490824/
 - Индексы в PostgreSQL
 https://habr.com/ru/company/postgrespro/blog/326096/
 - The Internals of PostgreSQL
-for database administrators and system developers
-http://www.interdb.jp/pg/
-- Больше разработчиков должны знать это о базах данных
-https://habr.com/ru/company/flant/blog/500850/
 - О чем молчит EXPLAIN, и как его разговорить
 https://habr.com/ru/company/tensor/blog/477624/
 
