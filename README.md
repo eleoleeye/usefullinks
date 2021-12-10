@@ -104,7 +104,6 @@ https://habr.com/ru/company/postgrespro/blog/462877/
 https://habr.com/ru/post/490824/
 - Индексы в PostgreSQL
 https://habr.com/ru/company/postgrespro/blog/326096/
-- The Internals of PostgreSQL
 - О чем молчит EXPLAIN, и как его разговорить
 https://habr.com/ru/company/tensor/blog/477624/
 
