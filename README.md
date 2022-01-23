@@ -116,6 +116,8 @@ https://habr.com/ru/company/oleg-bunin/blog/545702/
 https://habr.com/ru/post/481716/
 - Путь самурая: от Servlet к Reactive Programming
 https://habr.com/ru/company/domclick/blog/504304/
+- NodeJS how it works
+https://medium.com/webbdev/js-db3d35ffed7e
 
 
 # Devops
