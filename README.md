@@ -104,6 +104,8 @@ https://habr.com/ru/company/postgrespro/blog/462877/
 https://habr.com/ru/post/490824/
 - О чем молчит EXPLAIN, и как его разговорить
 https://habr.com/ru/company/tensor/blog/477624/
+- Isolation levels and locking in relational databases
+https://retool.com/blog/isolation-levels-and-locking-in-relational-databases/
 
 
 # Reactive 
