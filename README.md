@@ -66,6 +66,10 @@ https://habr.com/ru/company/piter/blog/518218/
 https://habr.com/ru/post/466385/  <br/>
 https://www.oreilly.com/library/view/kafka-the-definitive/9781491936153/ch04.html  <br/>
 https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying
+- Raft/Paxos algorithm visualization
+http://thesecretlivesofdata.com/
+- Raft/Paxos definition
+https://medium.com/the-sixt-india-blog/raft-and-paxos-a-brief-introduction-to-the-basic-consensus-protocols-powering-distributed-systems-1a0ef7ca3acb
 
 # Spring:
 - My notes for preparing for Spring Professional Certification
