@@ -182,3 +182,5 @@ https://habr.com/ru/company/yandex/blog/442762/
 https://habr.com/ru/post/503284/
 - Build you own X <br/>
  https://github.com/danistefanovic/build-your-own-x
+- OAuth 2.0 and OpenID Connect (in plain English)
+  https://www.youtube.com/watch?v=996OiexHze0
