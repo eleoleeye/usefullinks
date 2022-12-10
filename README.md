@@ -50,6 +50,8 @@ https://www.youtube.com/watch?v=t0dGLFtRR9c
 https://www.educative.io/blog/how-to-design-a-web-application-software-architecture-101
 - Scalability & System Design course 
 https://www.educative.io/path/scalability-system-design
+- System Design Cheat Sheet
+https://vivek-singh.medium.com/system-design-cheat-sheet-318ba2e34723
 - Learn how to design large-scale systems. Prep for the system design interview 
 https://github.com/donnemartin/system-design-primer
 - Resilience design patterns: retry, fallback, timeout, circuit breaker
