@@ -180,6 +180,8 @@ https://habr.com/ru/post/452172/
 https://habr.com/ru/post/437510/
 - Стажёр Вася и его истории об идемпотентности API
 https://habr.com/ru/company/yandex/blog/442762/
+- Стажёр Вася и его опыт разработки нового API
+https://habr.com/ru/company/yandex/blog/583332/
 - Безопасность REST API
 https://habr.com/ru/post/503284/
 - Build you own X <br/>
