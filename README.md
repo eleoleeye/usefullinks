@@ -146,7 +146,7 @@ https://habr.com/ru/company/htmlacademy/blog/254825/
 https://habr.com/ru/post/503284/
 - 🟡 The Illustrated TLS connection
 https://tls13.xargs.org/
-- 🟡 exmplain DNS
+- 🟡 explain DNS
  https://webhostinggeeks.com/guides/dns/
 
 # Date and time
