@@ -117,7 +117,7 @@ https://medium.com/webbdev/js-db3d35ffed7e
 # Devops
 - Docker course
 https://karpov.courses/docker
-2. Полное руководство по Prometheus в 2019 году
+- Полное руководство по Prometheus в 2019 году
 https://habr.com/ru/company/southbridge/blog/455290/
 
 # Auntification/Authorization
