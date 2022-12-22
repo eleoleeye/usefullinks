@@ -6,7 +6,6 @@ Useful programming links
 https://github.com/akullpp/awesome-java
 - Java Objects Inside Out (Shipilev)
 https://shipilev.net/jvm/objects-inside-out/
-- Алексей Шипилёв - Java-объекты наизнанку
 https://www.youtube.com/watch?v=3BmznLJAgaA
 - Варим байткод на кухне JVM
 https://habr.com/ru/company/domclick/blog/500646/
@@ -20,10 +19,6 @@ https://habr.com/ru/post/471772/
 https://habr.com/ru/company/otus/blog/427513/
 - Java VM Options You Should Always Use in Production
 https://blog.sokolenko.me/2014/11/javavm-options-production.html
-- В статье рассказывается про ковариантность, контр-вариантность, инвариантность, бивариантность. Вообщем про дженерики в джаве 
-https://llorllale.github.io/posts/java-variance/
-- Java perfomance guide 
-http://java-performance.com/
 
 # Concurrency
 - Code Review Checklist: Java Concurrency:
@@ -40,14 +35,10 @@ https://www.deadcoderising.com/java8-writing-asynchronous-code-with-completablef
 https://dev.cheremin.info/2012/01/cache-coherency-basics-msi.html
 - 🔴 Мифы о кэше процессора, в которые верят программисты
 https://habr.com/ru/post/354748/
-- Алексей Шипилёв — Близкие Контакты JMM-степени
-https://www.youtube.com/watch?v=3BmznLJAgaA
 - Алексей Шипилёв — ForkJoinPool в Java 8
 https://www.youtube.com/watch?v=t0dGLFtRR9c
 
 # System Design:
-- How to Design a Web Application: Software Architecture 101
-https://www.educative.io/blog/how-to-design-a-web-application-software-architecture-101
 - 🔴 Scalability & System Design course 
 https://www.educative.io/path/scalability-system-design
 - System Design Cheat Sheet
@@ -56,8 +47,6 @@ https://vivek-singh.medium.com/system-design-cheat-sheet-318ba2e34723
 https://github.com/donnemartin/system-design-primer
 - Resilience design patterns: retry, fallback, timeout, circuit breaker
 https://blog.codecentric.de/en/2019/06/resilience-design-patterns-retry-fallback-timeout-circuit-breaker/
-- Букварь по дизайну систем
-https://habr.com/ru/post/501366/
 - Spring Cloud Netflix Microservices — start project (серия статей)
 https://medium.com/@kirill.sereda/spring-cloud-netflix-microservices-start-project-%D1%81%D0%B5%D1%80%D0%B8%D1%8F-%D1%81%D1%82%D0%B0%D1%82%D0%B5%D0%B9-%D1%87%D0%B0%D1%81%D1%82%D1%8C-1-7a892ad5f16
 - DDD, Hexagonal, Onion, Clean, CQRS… как я собрал всё это вместе
@@ -68,6 +57,8 @@ https://habr.com/ru/company/piter/blog/518218/
 https://habr.com/ru/post/466385/  <br/>
 https://www.oreilly.com/library/view/kafka-the-definitive/9781491936153/ch04.html  <br/>
 https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying
+- Build you own X <br/>
+ https://github.com/danistefanovic/build-your-own-x
 - Raft/Paxos algorithm visualization
 http://thesecretlivesofdata.com/
 - Raft/Paxos definition
@@ -86,7 +77,7 @@ http://www.ontheserverside.com/blog/2014/07/23/horizontal-and-vertical-scaling-s
 http://dolszewski.com/spring/http-cache-with-spring-examples/
 - Spring Integration — динамические потоки данных
 https://habr.com/ru/post/509676/
-- Spring Transaction Management: @Transactional In-Depth 
+- 🔴 Spring Transaction Management: @Transactional In-Depth 
 https://www.marcobehler.com/guides/spring-transaction-management-unconventional-guide
 
 # Databases & ORM & SQL:
@@ -100,8 +91,6 @@ https://dzone.com/articles/best-performance-practices-for-hibernate-5-and-spr
 https://vladmihalcea.com/hibernate-performance-tuning-tips/
 - Блокировки в Postgres: советы по работе с блокировками
 https://habr.com/ru/company/otus/blog/452986/
-- PostgreSQL anti-patterns: read-modify-write cycles
-https://www.2ndquadrant.com/en/blog/postgresql-anti-patterns-read-modify-write-cycles/
 - Как работают реляционные базы данных 
 https://habr.com/ru/company/vk/blog/266811/
 - 🔴 Цикл статей о работе Postgresql
@@ -125,12 +114,56 @@ https://habr.com/ru/company/domclick/blog/504304/
 - NodeJS how it works
 https://medium.com/webbdev/js-db3d35ffed7e
 
-
 # Devops
-1. Kubernetes, микросервисы, CI/CD и докер для ретроградов: советы по обучению
-https://habr.com/ru/company/itsumma/blog/499102/
+- Docker course
+https://karpov.courses/docker
 2. Полное руководство по Prometheus в 2019 году
 https://habr.com/ru/company/southbridge/blog/455290/
+
+# Auntification/Authorization
+- Token-Based Authentication
+https://gist.github.com/zmts/802dc9c3510d79fd40f9dc38a12bccfc
+- Сброс пароля <br/>
+https://habr.com/ru/company/vdsina/blog/523690/ <br/>
+https://habr.com/ru/company/vdsina/blog/524014/ <br/>
+- Что будет с аутентификацией и паролями? Перевод отчета Javelin «Состояние строгой аутентификации» с комментариями
+https://habr.com/ru/company/aktiv-company/blog/449442/
+- OAuth 2.0 and OpenID Connect (in plain English)
+  https://www.youtube.com/watch?v=996OiexHze0
+
+# Web
+- Руководство по кросс-доменным запросам (CORS)
+https://grishaev.me/cors/
+- Cross-Site Request Forgery (CSRF) Prevention Cheat Sheet
+https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/Cross-Site_Request_Forgery_Prevention_Cheat_Sheet.md
+- Browser Fingerprint – анонимная идентификация браузеров
+https://habr.com/ru/company/oleg-bunin/blog/321294/
+- Как работают браузеры: принципы работы современных веб-браузеров
+https://habr.com/ru/post/174057/
+- 🔴 Что на самом деле происходит, когда пользователь вбивает в браузер адрес google.com
+https://habr.com/ru/company/htmlacademy/blog/254825/
+- Безопасность REST API
+https://habr.com/ru/post/503284/
+
+# Date and time
+- Работаем с таймзонами правильно
+ https://habr.com/ru/company/mailru/blog/242645/
+- Разбираемся в часовыми поясами. Инструкция по безопасной работе со временем
+https://grishaev.me/timezone/ 
+
+
+# Common links 
+- Encoding vs. Encryption vs. Hashing vs. Obfuscation
+https://danielmiessler.com/study/encoding-encryption-hashing-obfuscation/#encoding
+- Криптографические атаки: объяснение для смятённых умов
+https://habr.com/ru/post/462437/
+- Что происходит, когда вы отправляете SMS
+https://habr.com/ru/post/437510/
+- 🔴 Стажёр Вася и его истории об идемпотентности API
+https://habr.com/ru/company/yandex/blog/442762/
+- Стажёр Вася и его опыт разработки нового API
+https://habr.com/ru/company/yandex/blog/583332/
+
 
 # Tests :
 - Как построить пирамиду в багажнике или Test-Driven Development приложений на Spring Boot
@@ -143,48 +176,3 @@ https://phauer.com/2019/modern-best-practices-testing-java/
 https://habr.com/ru/company/leroy_merlin/blog/456662/
 - Introduction to contract testing
 https://blog.scottlogic.com/2019/01/07/introduction-to-contract-testing-part-1.html
-
-# Auntification/Authorization
-- Token-Based Authentication
-https://gist.github.com/zmts/802dc9c3510d79fd40f9dc38a12bccfc
-- Сброс пароля <br/>
-https://habr.com/ru/company/vdsina/blog/523690/ <br/>
-https://habr.com/ru/company/vdsina/blog/524014/ <br/>
-- Что будет с аутентификацией и паролями? Перевод отчета Javelin «Состояние строгой аутентификации» с комментариями
-https://habr.com/ru/company/aktiv-company/blog/449442/
-
-# Common links 
-- Руководство по кросс-доменным запросам (CORS)
-https://grishaev.me/cors/
-- Cross-Site Request Forgery (CSRF) Prevention Cheat Sheet
-https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/Cross-Site_Request_Forgery_Prevention_Cheat_Sheet.md
-- Browser Fingerprint – анонимная идентификация браузеров
-https://habr.com/ru/company/oleg-bunin/blog/321294/
-- Как работают браузеры: принципы работы современных веб-браузеров
-https://habr.com/ru/post/174057/
-- 🔴 Что на самом деле происходит, когда пользователь вбивает в браузер адрес google.com
-https://habr.com/ru/company/htmlacademy/blog/254825/
-- Разбираемся в часовыми поясами. Инструкция по безопасной работе со временем
-https://grishaev.me/timezone/
-- Encoding vs. Encryption vs. Hashing vs. Obfuscation
-https://danielmiessler.com/study/encoding-encryption-hashing-obfuscation/#encoding
-- Криптографические атаки: объяснение для смятённых умов
-https://habr.com/ru/post/462437/
-- Работаем с таймзонами правильно
- https://habr.com/ru/company/mailru/blog/242645/
-- Patterns for Managing Source Code Branches (Martin Fowler)
-https://martinfowler.com/articles/branching-patterns.html
-- Сложные системы. Выход на критический уровень
-https://habr.com/ru/post/452172/
-- Что происходит, когда вы отправляете SMS
-https://habr.com/ru/post/437510/
-- 🔴 Стажёр Вася и его истории об идемпотентности API
-https://habr.com/ru/company/yandex/blog/442762/
-- Стажёр Вася и его опыт разработки нового API
-https://habr.com/ru/company/yandex/blog/583332/
-- Безопасность REST API
-https://habr.com/ru/post/503284/
-- Build you own X <br/>
- https://github.com/danistefanovic/build-your-own-x
-- OAuth 2.0 and OpenID Connect (in plain English)
-  https://www.youtube.com/watch?v=996OiexHze0
