@@ -144,13 +144,14 @@ https://habr.com/ru/post/174057/
 https://habr.com/ru/company/htmlacademy/blog/254825/
 - Безопасность REST API
 https://habr.com/ru/post/503284/
+- The Illustrated TLS connection
+https://tls13.xargs.org/
 
 # Date and time
 - Работаем с таймзонами правильно
  https://habr.com/ru/company/mailru/blog/242645/
 - Разбираемся в часовыми поясами. Инструкция по безопасной работе со временем
 https://grishaev.me/timezone/ 
-
 
 # Common links 
 - Encoding vs. Encryption vs. Hashing vs. Obfuscation
