@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=3BmznLJAgaA
 https://habr.com/ru/company/domclick/blog/500646/
 - Разборы кейсов с производительностью в Java
 https://habr.com/ru/post/423305/
-- Описание работы сборщиков мусора (Дюк, вынеси мусор)
+- 🔴 Описание работы сборщиков мусора (Дюк, вынеси мусор)
 https://habr.com/ru/post/269621/
 - Инструменты для запуска и разработки Java приложений, компиляция, выполнение на JVM
 https://habr.com/ru/post/471772/
@@ -28,7 +28,7 @@ http://java-performance.com/
 # Concurrency
 - Code Review Checklist: Java Concurrency:
 https://github.com/code-review-checklists/java-concurrency
-- Java Concurrency and Multithreading Tutorial
+- 🔴 Java Concurrency and Multithreading Tutorial
 http://tutorials.jenkov.com/java-concurrency/index.html
 - Java Multithreading for Senior Engineering Interviews
 https://www.educative.io/courses/java-multithreading-for-senior-engineering-interviews
@@ -38,7 +38,7 @@ https://www.fatalerrors.org/a/classification-and-use-of-locks-in-java.html
 https://www.deadcoderising.com/java8-writing-asynchronous-code-with-completablefuture
 - Cache-coherency: Basics, MSI(помимо статьи, сам блог довольно интересен)
 https://dev.cheremin.info/2012/01/cache-coherency-basics-msi.html
-- Мифы о кэше процессора, в которые верят программисты
+- 🔴 Мифы о кэше процессора, в которые верят программисты
 https://habr.com/ru/post/354748/
 - Алексей Шипилёв — Близкие Контакты JMM-степени
 https://www.youtube.com/watch?v=3BmznLJAgaA
@@ -48,11 +48,11 @@ https://www.youtube.com/watch?v=t0dGLFtRR9c
 # System Design:
 - How to Design a Web Application: Software Architecture 101
 https://www.educative.io/blog/how-to-design-a-web-application-software-architecture-101
-- Scalability & System Design course 
+- 🔴 Scalability & System Design course 
 https://www.educative.io/path/scalability-system-design
 - System Design Cheat Sheet
 https://vivek-singh.medium.com/system-design-cheat-sheet-318ba2e34723
-- Learn how to design large-scale systems. Prep for the system design interview 
+- 🔴 Learn how to design large-scale systems. Prep for the system design interview 
 https://github.com/donnemartin/system-design-primer
 - Resilience design patterns: retry, fallback, timeout, circuit breaker
 https://blog.codecentric.de/en/2019/06/resilience-design-patterns-retry-fallback-timeout-circuit-breaker/
@@ -64,7 +64,7 @@ https://medium.com/@kirill.sereda/spring-cloud-netflix-microservices-start-proje
 https://habr.com/ru/post/427739/
 - Распределенные блокировки с применением Redis
 https://habr.com/ru/company/piter/blog/518218/
-- Понимание брокеров сообщений. Изучение механики обмена сообщениями посредством ActiveMQ и Kafka
+- 🔴 Понимание брокеров сообщений. Изучение механики обмена сообщениями посредством ActiveMQ и Kafka
 https://habr.com/ru/post/466385/  <br/>
 https://www.oreilly.com/library/view/kafka-the-definitive/9781491936153/ch04.html  <br/>
 https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying
@@ -90,7 +90,7 @@ https://habr.com/ru/post/509676/
 https://www.marcobehler.com/guides/spring-transaction-management-unconventional-guide
 
 # Databases & ORM & SQL:
-- What every developer should know about SQL performance
+- 🔴 What every developer should know about SQL performance
 https://use-the-index-luke.com/sql/table-of-contents
 - Best Performance Practices for Hibernate 5 and Spring Boot 2 (Part 1)
 https://dzone.com/articles/50-best-performance-practices-for-hibernate-5-amp
@@ -104,7 +104,7 @@ https://habr.com/ru/company/otus/blog/452986/
 https://www.2ndquadrant.com/en/blog/postgresql-anti-patterns-read-modify-write-cycles/
 - Как работают реляционные базы данных 
 https://habr.com/ru/company/vk/blog/266811/
-- Цикл статей о работе Postgresql
+- 🔴 Цикл статей о работе Postgresql
 https://habr.com/ru/company/postgrespro/blog/462877/
 - Здоровье индексов в PostgreSQL глазами Java-разработчика 
 https://habr.com/ru/post/490824/
@@ -162,7 +162,7 @@ https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/Cross-Site_Req
 https://habr.com/ru/company/oleg-bunin/blog/321294/
 - Как работают браузеры: принципы работы современных веб-браузеров
 https://habr.com/ru/post/174057/
-- Что на самом деле происходит, когда пользователь вбивает в браузер адрес google.com
+- 🔴 Что на самом деле происходит, когда пользователь вбивает в браузер адрес google.com
 https://habr.com/ru/company/htmlacademy/blog/254825/
 - Разбираемся в часовыми поясами. Инструкция по безопасной работе со временем
 https://grishaev.me/timezone/
@@ -178,7 +178,7 @@ https://martinfowler.com/articles/branching-patterns.html
 https://habr.com/ru/post/452172/
 - Что происходит, когда вы отправляете SMS
 https://habr.com/ru/post/437510/
-- Стажёр Вася и его истории об идемпотентности API
+- 🔴 Стажёр Вася и его истории об идемпотентности API
 https://habr.com/ru/company/yandex/blog/442762/
 - Стажёр Вася и его опыт разработки нового API
 https://habr.com/ru/company/yandex/blog/583332/
