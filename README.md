@@ -1,5 +1,5 @@
 # usefullinks
-Useful programming links
+
 
 # Java:
 - A curated list of awesome Java frameworks, libraries and software.
