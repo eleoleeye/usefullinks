@@ -25,8 +25,6 @@ https://blog.sokolenko.me/2014/11/javavm-options-production.html
 https://github.com/code-review-checklists/java-concurrency
 - 🔴 Java Concurrency and Multithreading Tutorial
 http://tutorials.jenkov.com/java-concurrency/index.html
-- Java Multithreading for Senior Engineering Interviews
-https://www.educative.io/courses/java-multithreading-for-senior-engineering-interviews
 - Classification and use of locks in Java
 https://www.fatalerrors.org/a/classification-and-use-of-locks-in-java.html
 - Java 8: Writing asynchronous code with CompletableFuture
@@ -117,8 +115,6 @@ https://medium.com/webbdev/js-db3d35ffed7e
 # Devops
 - Docker course
 https://karpov.courses/docker
-- Полное руководство по Prometheus в 2019 году
-https://habr.com/ru/company/southbridge/blog/455290/
 
 # Auntification/Authorization
 - Token-Based Authentication
