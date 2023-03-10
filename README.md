@@ -61,6 +61,8 @@ https://engineering.linkedin.com/distributed-systems/log-what-every-software-eng
 http://thesecretlivesofdata.com/
 - Raft/Paxos definition
 https://medium.com/the-sixt-india-blog/raft-and-paxos-a-brief-introduction-to-the-basic-consensus-protocols-powering-distributed-systems-1a0ef7ca3acb
+- Service Mesh
+https://habr.com/ru/company/flant/blog/478306/
 
 # Spring:
 - My notes for preparing for Spring Professional Certification
