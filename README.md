@@ -35,6 +35,8 @@ https://dev.cheremin.info/2012/01/cache-coherency-basics-msi.html
 https://habr.com/ru/post/354748/
 - Алексей Шипилёв — ForkJoinPool в Java 8
 https://www.youtube.com/watch?v=t0dGLFtRR9c
+- Глубокое погружение в Java Memory Model
+https://habr.com/ru/articles/685518/
 
 # System Design:
 - 🔴 Scalability & System Design course 
