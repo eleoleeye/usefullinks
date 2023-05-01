@@ -31,12 +31,14 @@ https://www.fatalerrors.org/a/classification-and-use-of-locks-in-java.html
 https://www.deadcoderising.com/java8-writing-asynchronous-code-with-completablefuture
 - Cache-coherency: Basics, MSI(помимо статьи, сам блог довольно интересен)
 https://dev.cheremin.info/2012/01/cache-coherency-basics-msi.html
-- 🔴 Мифы о кэше процессора, в которые верят программисты
+- Мифы о кэше процессора, в которые верят программисты
 https://habr.com/ru/post/354748/
 - Алексей Шипилёв — ForkJoinPool в Java 8
 https://www.youtube.com/watch?v=t0dGLFtRR9c
-- Глубокое погружение в Java Memory Model
+- 🔴 Глубокое погружение в Java Memory Model
 https://habr.com/ru/articles/685518/
+- Заметки об операционных системах
+https://github.com/blinky-z/OS-Learn
 
 # System Design:
 - 🔴 Scalability & System Design course 
