@@ -107,6 +107,8 @@ https://habr.com/ru/post/490824/
 https://habr.com/ru/company/tensor/blog/477624/
 - Transaction Isolation Levels in MS SQL: Ultimate Guide for Backend Developers
 https://levelup.gitconnected.com/transaction-isolation-levels-in-ms-sql-guide-for-backend-developers-6a5998e34f6c
+- How works postgres 
+https://habr.com/ru/companies/vk/articles/266811/
 
 
 # Reactive 
