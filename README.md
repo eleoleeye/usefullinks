@@ -69,6 +69,8 @@ https://medium.com/the-sixt-india-blog/raft-and-paxos-a-brief-introduction-to-th
 https://habr.com/ru/company/flant/blog/478306/
 - Load Balancing
 https://samwho.dev/load-balancing/#visualising-the-problem
+- system check list
+https://habr.com/ru/articles/583046/
 
 # Spring:
 - My notes for preparing for Spring Professional Certification
