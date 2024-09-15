@@ -111,8 +111,8 @@ https://habr.com/ru/company/postgrespro/blog/462877/
 https://habr.com/ru/post/490824/
 - О чем молчит EXPLAIN, и как его разговорить
 https://habr.com/ru/company/tensor/blog/477624/
-- Transaction Isolation Levels in MS SQL: Ultimate Guide for Backend Developers
-https://levelup.gitconnected.com/transaction-isolation-levels-in-ms-sql-guide-for-backend-developers-6a5998e34f6c
+- Transaction Isolation Levels
+https://www.thenile.dev/blog/transaction-isolation-postgres
 - How works postgres 
 https://habr.com/ru/companies/vk/articles/266811/
 
