@@ -59,7 +59,7 @@ https://habr.com/ru/company/piter/blog/518218/
 https://habr.com/ru/post/466385/  <br/>
 https://www.oreilly.com/library/view/kafka-the-definitive/9781491936153/ch04.html  <br/>
 https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying
-- Build you own X <br/>
+- Build your own X <br/>
  https://github.com/danistefanovic/build-your-own-x
 - Raft/Paxos algorithm visualization
 http://thesecretlivesofdata.com/
@@ -69,7 +69,7 @@ https://medium.com/the-sixt-india-blog/raft-and-paxos-a-brief-introduction-to-th
 https://habr.com/ru/company/flant/blog/478306/
 - Load Balancing
 https://samwho.dev/load-balancing/#visualising-the-problem
-- system check list
+- system checklist
 https://habr.com/ru/articles/583046/
 - Distributed transaction patterns for microservices compared
 https://developers.redhat.com/articles/2021/09/21/distributed-transaction-patterns-microservices-compared
@@ -113,9 +113,8 @@ https://habr.com/ru/post/490824/
 https://habr.com/ru/company/tensor/blog/477624/
 - Transaction Isolation Levels
 https://www.thenile.dev/blog/transaction-isolation-postgres
-- How works postgres 
+- How database works 
 https://habr.com/ru/companies/vk/articles/266811/
-
 
 # Reactive 
 - Things I Wish I Knew When I Started Building Reactive Systems
