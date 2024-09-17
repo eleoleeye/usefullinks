@@ -75,6 +75,8 @@ https://habr.com/ru/articles/583046/
 https://developers.redhat.com/articles/2021/09/21/distributed-transaction-patterns-microservices-compared
 - design patterns
  https://github.com/DovAmir/awesome-design-patterns
+- redis
+https://habr.com/ru/companies/nixys/articles/765694/
 
 # Spring:
 - My notes for preparing for Spring Professional Certification
