@@ -64,6 +64,10 @@ https://developers.redhat.com/articles/2021/09/21/distributed-transaction-patter
  https://github.com/DovAmir/awesome-design-patterns
 - redis
 https://habr.com/ru/companies/nixys/articles/765694/
+- Algorithms you should know before you take system design interviews
+https://blog.bytebytego.com/p/algorithms-you-should-know-before
+- Back-of-the-envelope Estimation
+https://bytebytego.com/courses/system-design-interview/back-of-the-envelope-estimation
 
 # Spring:
 - My notes for preparing for Spring Professional Certification
