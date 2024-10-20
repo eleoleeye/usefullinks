@@ -17,8 +17,8 @@ https://habr.com/ru/post/269621/
 https://habr.com/ru/post/471772/
 - Анализ Thread Dump
 https://habr.com/ru/company/otus/blog/427513/
-- Java VM Options You Should Always Use in Production
-https://blog.sokolenko.me/2014/11/javavm-options-production.html
+- Глубокое погружение в Java Memory Model
+https://habr.com/ru/articles/685518/
 
 # Concurrency
 - Code Review Checklist: Java Concurrency:
