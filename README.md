@@ -17,8 +17,7 @@ https://habr.com/ru/post/269621/
 https://habr.com/ru/post/471772/
 - How to Read a Thread Dump
 https://dzone.com/articles/how-to-read-a-thread-dump
-- Глубокое погружение в Java Memory Model
-https://habr.com/ru/articles/685518/
+
 
 # Concurrency
 - Code Review Checklist: Java Concurrency:
@@ -29,8 +28,6 @@ http://tutorials.jenkov.com/java-concurrency/index.html
 https://www.fatalerrors.org/a/classification-and-use-of-locks-in-java.html
 - Cache-coherency: Basics, MSI(помимо статьи, сам блог довольно интересен)
 https://dev.cheremin.info/2012/01/cache-coherency-basics-msi.html
-- Мифы о кэше процессора, в которые верят программисты
-https://habr.com/ru/post/354748/
 - Алексей Шипилёв — ForkJoinPool в Java 8
 https://www.youtube.com/watch?v=t0dGLFtRR9c
 - 🔴 Глубокое погружение в Java Memory Model
