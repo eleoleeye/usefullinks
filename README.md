@@ -27,8 +27,6 @@ https://github.com/code-review-checklists/java-concurrency
 http://tutorials.jenkov.com/java-concurrency/index.html
 - Classification and use of locks in Java
 https://www.fatalerrors.org/a/classification-and-use-of-locks-in-java.html
-- Java 8: Writing asynchronous code with CompletableFuture
-https://www.deadcoderising.com/java8-writing-asynchronous-code-with-completablefuture
 - Cache-coherency: Basics, MSI(помимо статьи, сам блог довольно интересен)
 https://dev.cheremin.info/2012/01/cache-coherency-basics-msi.html
 - Мифы о кэше процессора, в которые верят программисты
@@ -49,18 +47,12 @@ https://vivek-singh.medium.com/system-design-cheat-sheet-318ba2e34723
 https://github.com/donnemartin/system-design-primer
 - Resilience design patterns: retry, fallback, timeout, circuit breaker
 https://blog.codecentric.de/en/2019/06/resilience-design-patterns-retry-fallback-timeout-circuit-breaker/
-- Spring Cloud Netflix Microservices — start project (серия статей)
-https://medium.com/@kirill.sereda/spring-cloud-netflix-microservices-start-project-%D1%81%D0%B5%D1%80%D0%B8%D1%8F-%D1%81%D1%82%D0%B0%D1%82%D0%B5%D0%B9-%D1%87%D0%B0%D1%81%D1%82%D1%8C-1-7a892ad5f16
-- The Software Architecture Chronicles
-https://herbertograca.com/2017/07/03/the-software-architecture-chronicles/
 - Распределенные блокировки с применением Redis
 https://habr.com/ru/company/piter/blog/518218/
 - 🔴 Понимание брокеров сообщений. Изучение механики обмена сообщениями посредством ActiveMQ и Kafka
 https://habr.com/ru/post/466385/  <br/>
 https://www.oreilly.com/library/view/kafka-the-definitive/9781491936153/ch04.html  <br/>
 https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying
-- Build your own X <br/>
- https://github.com/danistefanovic/build-your-own-x
 - Raft/Paxos algorithm visualization
 http://thesecretlivesofdata.com/
 - Raft/Paxos definition
@@ -93,6 +85,8 @@ http://dolszewski.com/spring/http-cache-with-spring-examples/
 https://habr.com/ru/post/509676/
 - 🔴 Spring Transaction Management: @Transactional In-Depth 
 https://www.marcobehler.com/guides/spring-transaction-management-unconventional-guide
+- Spring Cloud Netflix Microservices — start project (серия статей)
+https://medium.com/@kirill.sereda/spring-cloud-netflix-microservices-start-project-%D1%81%D0%B5%D1%80%D0%B8%D1%8F-%D1%81%D1%82%D0%B0%D1%82%D0%B5%D0%B9-%D1%87%D0%B0%D1%81%D1%82%D1%8C-1-7a892ad5f16
 
 # Databases & ORM & SQL:
 - 🔴 What every developer should know about SQL performance
