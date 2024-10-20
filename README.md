@@ -15,8 +15,8 @@ https://habr.com/ru/post/423305/
 https://habr.com/ru/post/269621/
 - Инструменты для запуска и разработки Java приложений, компиляция, выполнение на JVM
 https://habr.com/ru/post/471772/
-- Анализ Thread Dump
-https://habr.com/ru/company/otus/blog/427513/
+- How to Read a Thread Dump
+https://dzone.com/articles/how-to-read-a-thread-dump
 - Глубокое погружение в Java Memory Model
 https://habr.com/ru/articles/685518/
 
