@@ -42,8 +42,6 @@ https://www.educative.io/path/scalability-system-design
 https://vivek-singh.medium.com/system-design-cheat-sheet-318ba2e34723
 - 🔴 Learn how to design large-scale systems. Prep for the system design interview 
 https://github.com/donnemartin/system-design-primer
-- Resilience design patterns: retry, fallback, timeout, circuit breaker
-https://blog.codecentric.de/en/2019/06/resilience-design-patterns-retry-fallback-timeout-circuit-breaker/
 - Распределенные блокировки с применением Redis
 https://habr.com/ru/company/piter/blog/518218/
 - 🔴 Понимание брокеров сообщений. Изучение механики обмена сообщениями посредством ActiveMQ и Kafka
