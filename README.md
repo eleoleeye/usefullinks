@@ -8,7 +8,7 @@
   - [Graph Algorithms for Coding Interviews](https://blog.algomaster.io/p/master-graph-algorithms-for-coding)
 
 <details>
-  <summary>Leetcode patterns schema</summary>
+  <summary>Leetcode patterns schema:</summary>
   
   ![Schema1](leetcode.png)
 </details>
@@ -36,12 +36,12 @@
 - [New API Development Experiences](https://habr.com/ru/company/yandex/blog/583332/)
 
 <details>
-  <summary>System Design Blueprins</summary>
+  <summary>System Design Blueprins:</summary>
   
   ![Schema1](sysdiz.jpeg)
 </details>
 <details>
-  <summary>System Design Blueprins2</summary>
+  <summary>System Design Blueprins2:</summary>
   
   ![Click](sd-bp.pdf)
 </details>
@@ -59,10 +59,16 @@
 - Hibernate :
   - [Hibernate Performance Tuning Tips](https://vladmihalcea.com/hibernate-performance-tuning-tips)
 <details>
-  <summary>Database types</summary>
+  <summary>Database types:</summary>
   
   ![Click](dbtypes.jpeg)
   ![Click](dbtypes2.webp)
+
+</details>
+
+<details>
+  <summary>Sharding:</summary>
+
   ![Sharding](sharding.jpg)
 
 </details>
