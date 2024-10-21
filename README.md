@@ -29,9 +29,9 @@
 - [Idempotent API Development](https://habr.com/ru/company/yandex/blog/442762/)
 - [New API Development Experiences](https://habr.com/ru/company/yandex/blog/583332/)
 - <details>
-  <summary>Нажмите здесь, чтобы увидеть изображение</summary>
+  <summary>System Design Blueprint</summary>
   
-  ![Описание изображения](sysdiz.jpeg)
+  ![](sysdiz.jpeg)
   
 </details>
 
