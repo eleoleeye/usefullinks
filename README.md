@@ -24,6 +24,8 @@
   - [Распределенные блокировки с применением Redis](https://habr.com/ru/company/piter/blog/518218/)
   - [Redis details](https://habr.com/ru/companies/nixys/articles/765694/)
 - [Operating Systems Notes](https://github.com/blinky-z/OS-Learn)
+- [Idempotent API Development](https://habr.com/ru/company/yandex/blog/442762/)
+- [New API Development Experiences](https://habr.com/ru/company/yandex/blog/583332/)
 
 ## Databases & ORM & SQL:
 - SQL databases
