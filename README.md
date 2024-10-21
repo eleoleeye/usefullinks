@@ -32,10 +32,14 @@
   <summary>System Design Blueprins</summary>
   
   ![Schema1](sysdiz.jpeg)
+  
+</details>
+<details>
+  <summary>System Design Blueprins2</summary>
+  
   ![Schema2](sd-bp.pdf)
   
 </details>
-
 ## Databases & ORM & SQL:
 - SQL databases
    - [What Every Developer Should Know About SQL Performance](https://use-the-index-luke.com/sql/table-of-contents)
