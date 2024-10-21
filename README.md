@@ -1,5 +1,6 @@
 # usefullinks
-
+# Leetcode:
+- [Это задачи на LeetCode](https://www.techinterviewhandbook.org/grind75/)
 
 # System Design:
 - 🔴 Scalability & System Design course 
