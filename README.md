@@ -26,17 +26,20 @@
 - [Operating Systems Notes](https://github.com/blinky-z/OS-Learn)
 
 ## Databases & ORM & SQL:
-- [What Every Developer Should Know About SQL Performance](https://use-the-index-luke.com/sql/table-of-contents)
-- [Блокировки в Postgres](https://habr.com/ru/company/otus/blog/452986/)
-- [Как работают реляционные базы данных](https://habr.com/ru/company/vk/blog/266811/)
-- [Цикл статей о работе Postgresql](https://habr.com/ru/company/postgrespro/blog/462877/)
-- [Здоровье индексов в PostgreSQL глазами Java-разработчика](https://habr.com/ru/post/490824/)
-- [О чем молчит EXPLAIN](https://habr.com/ru/company/tensor/blog/477624/)
-- [Transaction Isolation Levels in Postgres](https://www.thenile.dev/blog/transaction-isolation-postgres)
-- [How Databases Work](https://habr.com/ru/companies/vk/articles/266811/)
-- [Best Performance Practices for Hibernate 5 and Spring Boot 2 (Part 1)](https://dzone.com/articles/50-best-performance-practices-for-hibernate-5-amp)
-- [Best Performance Practices for Hibernate 5 and Spring Boot 2 (Part 2)](https://dzone.com/articles/best-performance-practices-for-hibernate-5-and-spr)
-- [Hibernate Performance Tuning Tips](https://vladmihalcea.com/hibernate-performance-tuning-tips)
+- SQL databases
+   - [What Every Developer Should Know About SQL Performance](https://use-the-index-luke.com/sql/table-of-contents)
+   - [Как работают реляционные базы данных](https://habr.com/ru/company/vk/blog/266811/)
+   - [Блокировки в Postgres](https://habr.com/ru/company/otus/blog/452986/)
+   - [Здоровье индексов в PostgreSQL глазами Java-разработчика](https://habr.com/ru/post/490824/)
+   - [Цикл статей о работе Postgresql](https://habr.com/ru/company/postgrespro/blog/462877/)
+   - [Transaction Isolation Levels in Postgres](https://www.thenile.dev/blog/transaction-isolation-postgres)
+   - [How Databases Work](https://habr.com/ru/companies/vk/articles/266811/)
+   - [О чем молчит EXPLAIN](https://habr.com/ru/company/tensor/blog/477624/)
+- Hibernate :
+  - [Best Performance Practices for Hibernate 5 and Spring Boot 2 (Part 1)](https://dzone.com/articles/50-best-performance-practices-for-hibernate-5-amp)
+  - [Best Performance Practices for Hibernate 5 and Spring Boot 2 (Part 2)](https://dzone.com/articles/best-performance-practices-for-hibernate-5-and-spr)
+  - [Hibernate Performance Tuning Tips](https://vladmihalcea.com/hibernate-performance-tuning-tips)
+  
 
 ## Java:
 - [Awesome Java: Curated List of Frameworks, Libraries, and Software](https://github.com/akullpp/awesome-java)
