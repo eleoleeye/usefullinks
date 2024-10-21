@@ -48,7 +48,6 @@
 - [Java Development Tools](https://habr.com/ru/post/471772/)
 - [How to Read a Thread Dump](https://dzone.com/articles/how-to-read-a-thread-dump)
 - Reactive
-  - [Things I Wish I Knew When I Started Building Reactive Systems](https://www.reactivesystems.eu/2017/01/31/things-i-wish-i-knew-when-i-started-building-reactive-systems.html)
   - [Reactive Programming in Java](https://habr.com/ru/company/oleg-bunin/blog/543386/)
   - [Путь самурая: от Servlet к Reactive Programming](https://habr.com/ru/company/domclick/blog/504304/)
   - [NodeJS: How it Works](https://medium.com/webbdev/js-db3d35ffed7e)
