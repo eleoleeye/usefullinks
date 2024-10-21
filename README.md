@@ -7,6 +7,12 @@
   - [Patterns to Master Dynamic Programming](https://blog.algomaster.io/p/20-patterns-to-master-dynamic-programming)
   - [Graph Algorithms for Coding Interviews](https://blog.algomaster.io/p/master-graph-algorithms-for-coding)
 
+<details>
+  <summary>Leetcode patterns schema</summary>
+  
+  ![Schema1](leetcode.png)
+</details>
+
 ## System Design:
 - [System design roadmap](https://roadmap.sh/system-design)
 - [System Design Cheatsheet](https://gist.github.com/vasanthk/485d1c25737e8e72759f)
