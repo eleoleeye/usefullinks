@@ -8,16 +8,13 @@
   - [Graph Algorithms for Coding Interviews](https://blog.algomaster.io/p/master-graph-algorithms-for-coding)
 
 ## System Design:
-- [Scalability & System Design course](https://www.educative.io/path/scalability-system-design)
 - [System Design Cheat Sheet](https://vivek-singh.medium.com/system-design-cheat-sheet-318ba2e34723)
 - [Learn how to design large-scale systems (System Design Primer)](https://github.com/donnemartin/system-design-primer)
-- [Распределенные блокировки с применением Redis](https://habr.com/ru/company/piter/blog/518218/)
 - [Понимание брокеров сообщений (ActiveMQ и Kafka)](https://habr.com/ru/post/466385/)
   - [Kafka Definitive Guide](https://www.oreilly.com/library/view/kafka-the-definitive/9781491936153/ch04.html)
   - [Log: What Every Software Engineer Should Know](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
 - [Raft/Paxos Algorithm Visualization](http://thesecretlivesofdata.com/)
 - [Raft/Paxos Algorithm Definition](https://medium.com/the-sixt-india-blog/raft-and-paxos-a-brief-introduction-to-the-basic-consensus-protocols-powering-distributed-systems-1a0ef7ca3acb)
-- [Service Mesh](https://habr.com/ru/company/flant/blog/478306/)
 - [Load Balancing](https://samwho.dev/load-balancing/#visualising-the-problem)
 - [System Checklist](https://habr.com/ru/articles/583046/)
 - [Distributed Transaction Patterns for Microservices](https://developers.redhat.com/articles/2021/09/21/distributed-transaction-patterns-microservices-compared)
@@ -25,6 +22,7 @@
 - [Redis Article](https://habr.com/ru/companies/nixys/articles/765694/)
 - [Algorithms for System Design Interviews](https://blog.bytebytego.com/p/algorithms-you-should-know-before)
 - [Back-of-the-envelope Estimation](https://bytebytego.com/courses/system-design-interview/back-of-the-envelope-estimation)
+- [Распределенные блокировки с применением Redis](https://habr.com/ru/company/piter/blog/518218/)
 
 ## Databases & ORM & SQL:
 - [What Every Developer Should Know About SQL Performance](https://use-the-index-luke.com/sql/table-of-contents)
