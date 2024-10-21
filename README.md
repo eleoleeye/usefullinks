@@ -30,9 +30,11 @@
 - [New API Development Experiences](https://habr.com/ru/company/yandex/blog/583332/)
 - <details>
   <summary>System Design Blueprint</summary>
-  
   ![](sysdiz.jpeg)
-  
+</details>
+- <details>
+  <summary>System Design Blueprint2</summary>
+  ![](sd-bp)
 </details>
 
 ## Databases & ORM & SQL:
