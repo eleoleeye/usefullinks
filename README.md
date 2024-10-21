@@ -19,10 +19,11 @@
 - [System Checklist](https://habr.com/ru/articles/583046/)
 - [Distributed Transaction Patterns for Microservices](https://developers.redhat.com/articles/2021/09/21/distributed-transaction-patterns-microservices-compared)
 - [Design Patterns Collection](https://github.com/DovAmir/awesome-design-patterns)
-- [Redis Article](https://habr.com/ru/companies/nixys/articles/765694/)
 - [Algorithms for System Design Interviews](https://blog.bytebytego.com/p/algorithms-you-should-know-before)
 - [Back-of-the-envelope Estimation](https://bytebytego.com/courses/system-design-interview/back-of-the-envelope-estimation)
-- [Распределенные блокировки с применением Redis](https://habr.com/ru/company/piter/blog/518218/)
+- Redis
+  - [Распределенные блокировки с применением Redis](https://habr.com/ru/company/piter/blog/518218/)
+  - [Redis details](https://habr.com/ru/companies/nixys/articles/765694/)
 
 ## Databases & ORM & SQL:
 - [What Every Developer Should Know About SQL Performance](https://use-the-index-luke.com/sql/table-of-contents)
