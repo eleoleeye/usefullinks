@@ -1,7 +1,11 @@
 # Useful Links
 
 ## Leetcode:
-- [Это задачи на LeetCode](https://www.techinterviewhandbook.org/grind75/)
+- [Grind 75 leetcode problems](https://www.techinterviewhandbook.org/grind75/)
+- [Mastering the 20 Coding Patterns](https://www.designgurus.io/blog/grokking-the-coding-interview-patterns)
+  - [Patterns with examples](https://blog.algomaster.io/p/15-leetcode-patterns)
+  - [Patterns to Master Dynamic Programming](https://blog.algomaster.io/p/20-patterns-to-master-dynamic-programming)
+  - [Graph Algorithms for Coding Interviews](https://blog.algomaster.io/p/master-graph-algorithms-for-coding)
 
 ## System Design:
 - [Scalability & System Design course](https://www.educative.io/path/scalability-system-design)
