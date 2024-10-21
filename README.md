@@ -9,6 +9,7 @@
 
 ## System Design:
 - [System design roadmap](https://roadmap.sh/system-design)
+- [System Design Cheatsheet]{https://gist.github.com/vasanthk/485d1c25737e8e72759f}
 - [Learn how to design large-scale systems (System Design Primer)](https://github.com/donnemartin/system-design-primer)
 - [Понимание брокеров сообщений (ActiveMQ и Kafka)](https://habr.com/ru/post/466385/)
   - [Kafka Definitive Guide](https://www.oreilly.com/library/view/kafka-the-definitive/9781491936153/ch04.html)
