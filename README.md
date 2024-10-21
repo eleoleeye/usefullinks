@@ -47,6 +47,11 @@
 - [Garbage Collection Overview](https://habr.com/ru/post/269621/)
 - [Java Development Tools](https://habr.com/ru/post/471772/)
 - [How to Read a Thread Dump](https://dzone.com/articles/how-to-read-a-thread-dump)
+- Reactive
+  - [Things I Wish I Knew When I Started Building Reactive Systems](https://www.reactivesystems.eu/2017/01/31/things-i-wish-i-knew-when-i-started-building-reactive-systems.html)
+  - [Reactive Programming in Java](https://habr.com/ru/company/oleg-bunin/blog/543386/)
+  - [Путь самурая: от Servlet к Reactive Programming](https://habr.com/ru/company/domclick/blog/504304/)
+  - [NodeJS: How it Works](https://medium.com/webbdev/js-db3d35ffed7e)
 
 ## Concurrency:
 - [Code Review Checklist: Java Concurrency](https://github.com/code-review-checklists/java-concurrency)
@@ -66,12 +71,6 @@
 - [Spring Integration: Dynamic Data Streams](https://habr.com/ru/post/509676/)
 - [Spring Transaction Management: @Transactional In-Depth](https://www.marcobehler.com/guides/spring-transaction-management-unconventional-guide)
 - [Spring Cloud Netflix Microservices (Article Series)](https://medium.com/@kirill.sereda/spring-cloud-netflix-microservices-start-project-%D1%81%D0%B5%D1%80%D0%B8%D1%8F-%D1%81%D1%82%D0%B0%D1%82%D0%B5%D0%B9-%D1%87%D0%B0%D1%81%D1%82%D1%8C-1-7a892ad5f16)
-
-## Reactive:
-- [Things I Wish I Knew When I Started Building Reactive Systems](https://www.reactivesystems.eu/2017/01/31/things-i-wish-i-knew-when-i-started-building-reactive-systems.html)
-- [Reactive Programming in Java](https://habr.com/ru/company/oleg-bunin/blog/543386/)
-- [Путь самурая: от Servlet к Reactive Programming](https://habr.com/ru/company/domclick/blog/504304/)
-- [NodeJS: How it Works](https://medium.com/webbdev/js-db3d35ffed7e)
 
 ## DevOps:
 - [Docker Course](https://karpov.courses/docker)
