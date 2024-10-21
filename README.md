@@ -32,9 +32,9 @@
   <summary>System Design Blueprint</summary>
   ![](sysdiz.jpeg)
 </details>
-- <details>
+ <details>
   <summary>System Design Blueprint2</summary>
-  ![](sd-bp)
+  ![](sd-bp.pdf)
 </details>
 
 ## Databases & ORM & SQL:
