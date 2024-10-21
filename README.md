@@ -35,24 +35,6 @@ https://blog.bytebytego.com/p/algorithms-you-should-know-before
 - Back-of-the-envelope Estimation
 https://bytebytego.com/courses/system-design-interview/back-of-the-envelope-estimation
 
-# Spring:
-- My notes for preparing for Spring Professional Certification
-https://github.com/MrR0807/SpringCertification5.0
-- Collection of best practices for Java persistence performance in Spring Boot applications
-https://github.com/AnghelLeonard/Hibernate-SpringBoot
-- All You Need To Know About Bean Validation With Spring Boot 
-https://reflectoring.io/bean-validation-with-spring-boot/
-- Horizontal and Vertical Scaling Strategies for Batch Applications
-http://www.ontheserverside.com/blog/2014/07/23/horizontal-and-vertical-scaling-strategies-for-batch-applications
-- HTTP cache with Spring examples
-http://dolszewski.com/spring/http-cache-with-spring-examples/
-- Spring Integration — динамические потоки данных
-https://habr.com/ru/post/509676/
-- 🔴 Spring Transaction Management: @Transactional In-Depth 
-https://www.marcobehler.com/guides/spring-transaction-management-unconventional-guide
-- Spring Cloud Netflix Microservices — start project (серия статей)
-https://medium.com/@kirill.sereda/spring-cloud-netflix-microservices-start-project-%D1%81%D0%B5%D1%80%D0%B8%D1%8F-%D1%81%D1%82%D0%B0%D1%82%D0%B5%D0%B9-%D1%87%D0%B0%D1%81%D1%82%D1%8C-1-7a892ad5f16
-
 # Databases & ORM & SQL:
 - 🔴 What every developer should know about SQL performance
 https://use-the-index-luke.com/sql/table-of-contents
@@ -95,7 +77,6 @@ https://habr.com/ru/post/471772/
 - How to Read a Thread Dump
 https://dzone.com/articles/how-to-read-a-thread-dump
 
-
 # Concurrency
 - Code Review Checklist: Java Concurrency:
 https://github.com/code-review-checklists/java-concurrency
@@ -111,6 +92,25 @@ https://www.youtube.com/watch?v=t0dGLFtRR9c
 https://habr.com/ru/articles/685518/
 - Заметки об операционных системах
 https://github.com/blinky-z/OS-Learn
+
+
+# Spring:
+- My notes for preparing for Spring Professional Certification
+https://github.com/MrR0807/SpringCertification5.0
+- Collection of best practices for Java persistence performance in Spring Boot applications
+https://github.com/AnghelLeonard/Hibernate-SpringBoot
+- All You Need To Know About Bean Validation With Spring Boot 
+https://reflectoring.io/bean-validation-with-spring-boot/
+- Horizontal and Vertical Scaling Strategies for Batch Applications
+http://www.ontheserverside.com/blog/2014/07/23/horizontal-and-vertical-scaling-strategies-for-batch-applications
+- HTTP cache with Spring examples
+http://dolszewski.com/spring/http-cache-with-spring-examples/
+- Spring Integration — динамические потоки данных
+https://habr.com/ru/post/509676/
+- 🔴 Spring Transaction Management: @Transactional In-Depth 
+https://www.marcobehler.com/guides/spring-transaction-management-unconventional-guide
+- Spring Cloud Netflix Microservices — start project (серия статей)
+https://medium.com/@kirill.sereda/spring-cloud-netflix-microservices-start-project-%D1%81%D0%B5%D1%80%D0%B8%D1%8F-%D1%81%D1%82%D0%B0%D1%82%D0%B5%D0%B9-%D1%87%D0%B0%D1%81%D1%82%D1%8C-1-7a892ad5f16
 
 # Reactive 
 - Things I Wish I Knew When I Started Building Reactive Systems
