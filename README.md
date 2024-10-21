@@ -28,13 +28,12 @@
 - [Operating Systems Notes](https://github.com/blinky-z/OS-Learn)
 - [Idempotent API Development](https://habr.com/ru/company/yandex/blog/442762/)
 - [New API Development Experiences](https://habr.com/ru/company/yandex/blog/583332/)
-- <details>
-  <summary>System Design Blueprint</summary>
-  ![](sysdiz.jpeg)
-</details>
- <details>
-  <summary>System Design Blueprint2</summary>
-  ![](sd-bp.pdf)
+<details>
+  <summary>System Design Blueprins</summary>
+  
+  ![Schema1](sysdiz.jpeg)
+  ![Schema2](sd-bp.pdf)
+  
 </details>
 
 ## Databases & ORM & SQL:
