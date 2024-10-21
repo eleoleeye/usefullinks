@@ -28,6 +28,12 @@
 - [Operating Systems Notes](https://github.com/blinky-z/OS-Learn)
 - [Idempotent API Development](https://habr.com/ru/company/yandex/blog/442762/)
 - [New API Development Experiences](https://habr.com/ru/company/yandex/blog/583332/)
+- <details>
+  <summary>Нажмите здесь, чтобы увидеть изображение</summary>
+  
+  ![Описание изображения](sysdiz.jpeg)
+  
+</details>
 
 ## Databases & ORM & SQL:
 - SQL databases
