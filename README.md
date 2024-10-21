@@ -1,5 +1,8 @@
 # Useful Links
 
+This repository contains resources for preparing for Software Engineer interviews and for general skill development. You will find useful links to articles, courses, and other materials to enhance your knowledge and expertise.
+
+
 ## Leetcode:
 - [Grind 75 leetcode problems](https://www.techinterviewhandbook.org/grind75/)
 - [Mastering the 20 Coding Patterns](https://www.designgurus.io/blog/grokking-the-coding-interview-patterns)
