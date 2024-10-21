@@ -28,6 +28,7 @@
 - [Operating Systems Notes](https://github.com/blinky-z/OS-Learn)
 - [Idempotent API Development](https://habr.com/ru/company/yandex/blog/442762/)
 - [New API Development Experiences](https://habr.com/ru/company/yandex/blog/583332/)
+- System Design Schemas:
 <details>
   <summary>System Design Blueprins</summary>
   
@@ -36,7 +37,7 @@
 <details>
   <summary>System Design Blueprins2</summary>
   
-  ![Link](sd-bp.pdf)
+  ![Click](sd-bp.pdf)
 </details>
 
 ## Databases & ORM & SQL:
@@ -51,6 +52,7 @@
    - [О чем молчит EXPLAIN](https://habr.com/ru/company/tensor/blog/477624/)
 - Hibernate :
   - [Hibernate Performance Tuning Tips](https://vladmihalcea.com/hibernate-performance-tuning-tips)
+
   
 
 ## Java:
