@@ -98,6 +98,3 @@
 ## Common Links:
 - [Encoding vs. Encryption vs. Hashing vs. Obfuscation](https://danielmiessler.com/study/encoding-encryption-hashing-obfuscation/#encoding)
 - [Cryptographic Attacks](https://habr.com/ru/post/462437/)
-- [How SMS Works](https://habr.com/ru/post/437510/)
-- [Idempotent API Development](https://habr.com/ru/company/yandex/blog/442762/)
-- [New API Development Experiences](https://habr.com/ru/company/yandex/blog/583332/)
