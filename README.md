@@ -38,8 +38,6 @@
    - [How Databases Work](https://habr.com/ru/companies/vk/articles/266811/)
    - [О чем молчит EXPLAIN](https://habr.com/ru/company/tensor/blog/477624/)
 - Hibernate :
-  - [Best Performance Practices for Hibernate 5 and Spring Boot 2 (Part 1)](https://dzone.com/articles/50-best-performance-practices-for-hibernate-5-amp)
-  - [Best Performance Practices for Hibernate 5 and Spring Boot 2 (Part 2)](https://dzone.com/articles/best-performance-practices-for-hibernate-5-and-spr)
   - [Hibernate Performance Tuning Tips](https://vladmihalcea.com/hibernate-performance-tuning-tips)
   
 
