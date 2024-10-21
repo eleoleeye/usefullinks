@@ -1,40 +1,6 @@
 # usefullinks
 
 
-# Java:
-- A curated list of awesome Java frameworks, libraries and software.
-https://github.com/akullpp/awesome-java
-- Java Objects Inside Out (Shipilev)
-https://shipilev.net/jvm/objects-inside-out/
-https://www.youtube.com/watch?v=3BmznLJAgaA
-- Варим байткод на кухне JVM
-https://habr.com/ru/company/domclick/blog/500646/
-- Разборы кейсов с производительностью в Java
-https://habr.com/ru/post/423305/
-- 🔴 Описание работы сборщиков мусора (Дюк, вынеси мусор)
-https://habr.com/ru/post/269621/
-- Инструменты для запуска и разработки Java приложений, компиляция, выполнение на JVM
-https://habr.com/ru/post/471772/
-- How to Read a Thread Dump
-https://dzone.com/articles/how-to-read-a-thread-dump
-
-
-# Concurrency
-- Code Review Checklist: Java Concurrency:
-https://github.com/code-review-checklists/java-concurrency
-- 🔴 Java Concurrency and Multithreading Tutorial
-http://tutorials.jenkov.com/java-concurrency/index.html
-- Classification and use of locks in Java
-https://www.fatalerrors.org/a/classification-and-use-of-locks-in-java.html
-- Cache-coherency: Basics, MSI(помимо статьи, сам блог довольно интересен)
-https://dev.cheremin.info/2012/01/cache-coherency-basics-msi.html
-- Алексей Шипилёв — ForkJoinPool в Java 8
-https://www.youtube.com/watch?v=t0dGLFtRR9c
-- 🔴 Глубокое погружение в Java Memory Model
-https://habr.com/ru/articles/685518/
-- Заметки об операционных системах
-https://github.com/blinky-z/OS-Learn
-
 # System Design:
 - 🔴 Scalability & System Design course 
 https://www.educative.io/path/scalability-system-design
@@ -90,12 +56,6 @@ https://medium.com/@kirill.sereda/spring-cloud-netflix-microservices-start-proje
 # Databases & ORM & SQL:
 - 🔴 What every developer should know about SQL performance
 https://use-the-index-luke.com/sql/table-of-contents
-- Best Performance Practices for Hibernate 5 and Spring Boot 2 (Part 1)
-https://dzone.com/articles/50-best-performance-practices-for-hibernate-5-amp
-- Best Performance Practices for Hibernate 5 and Spring Boot 2 (part 2)
-https://dzone.com/articles/best-performance-practices-for-hibernate-5-and-spr
-- Hibernate performance tuning tips 
-https://vladmihalcea.com/hibernate-performance-tuning-tips/
 - Блокировки в Postgres: советы по работе с блокировками
 https://habr.com/ru/company/otus/blog/452986/
 - Как работают реляционные базы данных 
@@ -110,6 +70,47 @@ https://habr.com/ru/company/tensor/blog/477624/
 https://www.thenile.dev/blog/transaction-isolation-postgres
 - How database works 
 https://habr.com/ru/companies/vk/articles/266811/
+- Best Performance Practices for Hibernate 5 and Spring Boot 2 (Part 1)
+https://dzone.com/articles/50-best-performance-practices-for-hibernate-5-amp
+- Best Performance Practices for Hibernate 5 and Spring Boot 2 (part 2)
+https://dzone.com/articles/best-performance-practices-for-hibernate-5-and-spr
+- Hibernate performance tuning tips 
+https://vladmihalcea.com/hibernate-performance-tuning-tips/
+
+
+# Java:
+- A curated list of awesome Java frameworks, libraries and software.
+https://github.com/akullpp/awesome-java
+- Java Objects Inside Out (Shipilev)
+https://shipilev.net/jvm/objects-inside-out/
+https://www.youtube.com/watch?v=3BmznLJAgaA
+- Варим байткод на кухне JVM
+https://habr.com/ru/company/domclick/blog/500646/
+- Разборы кейсов с производительностью в Java
+https://habr.com/ru/post/423305/
+- 🔴 Описание работы сборщиков мусора (Дюк, вынеси мусор)
+https://habr.com/ru/post/269621/
+- Инструменты для запуска и разработки Java приложений, компиляция, выполнение на JVM
+https://habr.com/ru/post/471772/
+- How to Read a Thread Dump
+https://dzone.com/articles/how-to-read-a-thread-dump
+
+
+# Concurrency
+- Code Review Checklist: Java Concurrency:
+https://github.com/code-review-checklists/java-concurrency
+- 🔴 Java Concurrency and Multithreading Tutorial
+http://tutorials.jenkov.com/java-concurrency/index.html
+- Classification and use of locks in Java
+https://www.fatalerrors.org/a/classification-and-use-of-locks-in-java.html
+- Cache-coherency: Basics, MSI(помимо статьи, сам блог довольно интересен)
+https://dev.cheremin.info/2012/01/cache-coherency-basics-msi.html
+- Алексей Шипилёв — ForkJoinPool в Java 8
+https://www.youtube.com/watch?v=t0dGLFtRR9c
+- 🔴 Глубокое погружение в Java Memory Model
+https://habr.com/ru/articles/685518/
+- Заметки об операционных системах
+https://github.com/blinky-z/OS-Learn
 
 # Reactive 
 - Things I Wish I Knew When I Started Building Reactive Systems
@@ -176,14 +177,3 @@ https://habr.com/ru/company/yandex/blog/442762/
 https://habr.com/ru/company/yandex/blog/583332/
 
 
-# Tests :
-- Как построить пирамиду в багажнике или Test-Driven Development приложений на Spring Boot
-     https://habr.com/post/431306/
-- Пирамида тестов на практике
- https://habr.com/ru/post/358950/     
-- Modern Best Practices for Testing in Java
-https://phauer.com/2019/modern-best-practices-testing-java/
-- Как сэкономить на психотерапевте используя test-driven development
-https://habr.com/ru/company/leroy_merlin/blog/456662/
-- Introduction to contract testing
-https://blog.scottlogic.com/2019/01/07/introduction-to-contract-testing-part-1.html
