@@ -37,6 +37,7 @@ This repository contains resources for preparing for Software Engineer interview
 - [Operating Systems Notes](https://github.com/blinky-z/OS-Learn)
 - [Idempotent API Development](https://habr.com/ru/company/yandex/blog/442762/)
 - [New API Development Experiences](https://habr.com/ru/company/yandex/blog/583332/)
+- [15 System Design Building Blocks](https://blog.algomaster.io/p/15-system-design-building-blocks)
 
 <details>
   <summary>System Design Blueprins:</summary>
@@ -61,6 +62,7 @@ This repository contains resources for preparing for Software Engineer interview
    - [О чем молчит EXPLAIN](https://habr.com/ru/company/tensor/blog/477624/)
 - Hibernate :
   - [Hibernate Performance Tuning Tips](https://vladmihalcea.com/hibernate-performance-tuning-tips)
+- [SQL vs NoSQL - Key Differences](https://blog.algomaster.io/p/design-spotify-system-design-interview) 
 <details>
   <summary>Database types:</summary>
   
