@@ -84,6 +84,7 @@ This repository contains resources for preparing for Software Engineer interview
 - [Awesome Java: Curated List of Frameworks, Libraries, and Software](https://github.com/akullpp/awesome-java)
 - [Java Objects Inside Out (Shipilev)](https://shipilev.net/jvm/objects-inside-out/)
   - [YouTube Video on Java Objects Inside Out](https://www.youtube.com/watch?v=3BmznLJAgaA)
+- [low level java](https://shipilev.net/jvm/anatomy-quarks/)
 - [Варим байткод на кухне JVM](https://habr.com/ru/company/domclick/blog/500646/)
 - [Разборы кейсов с производительностью в Java](https://habr.com/ru/post/423305/)
 - [Garbage Collection Overview](https://habr.com/ru/post/269621/)
