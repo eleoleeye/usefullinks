@@ -3,7 +3,7 @@
 This repository contains resources for preparing for Software Engineer interviews and for general skill development. You will find useful links to articles, courses, and other materials to enhance your knowledge and expertise.
 
 # Interview 
--[interview guide](https://www.techinterviewhandbook.org/software-engineering-interview-guide/)
+- [interview guide](https://www.techinterviewhandbook.org/software-engineering-interview-guide/)
 
 ## Leetcode:
 - [Grind 75 leetcode problems](https://www.techinterviewhandbook.org/grind75/)
