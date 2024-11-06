@@ -86,12 +86,16 @@ This repository contains resources for preparing for Software Engineer interview
 - [Awesome Java: Curated List of Frameworks, Libraries, and Software](https://github.com/akullpp/awesome-java)
 - [Java Objects Inside Out (Shipilev)](https://shipilev.net/jvm/objects-inside-out/)
   - [YouTube Video on Java Objects Inside Out](https://www.youtube.com/watch?v=3BmznLJAgaA)
-- [low level java](https://shipilev.net/jvm/anatomy-quarks/)
+
 - [Варим байткод на кухне JVM](https://habr.com/ru/company/domclick/blog/500646/)
 - [Разборы кейсов с производительностью в Java](https://habr.com/ru/post/423305/)
 - [Garbage Collection Overview](https://habr.com/ru/post/269621/)
 - [Java Development Tools](https://habr.com/ru/post/471772/)
 - [How to Read a Thread Dump](https://dzone.com/articles/how-to-read-a-thread-dump)
+- Low level java
+  - [The Billion Row Challenge](https://questdb.io/blog/billion-row-challenge-step-by-step/)
+  - [low level java](https://shipilev.net/jvm/anatomy-quarks/)
+  - [Chronicle Software : Open Source](https://github.com/OpenHFT)
 - Reactive
   - [Reactive Programming in Java](https://habr.com/ru/company/oleg-bunin/blog/543386/)
   - [Путь самурая: от Servlet к Reactive Programming](https://habr.com/ru/company/domclick/blog/504304/)
