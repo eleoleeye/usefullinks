@@ -5,6 +5,7 @@ This repository contains resources for preparing for Software Engineer interview
 # faang 
 - [faang interview guide](https://www.techinterviewhandbook.org/software-engineering-interview-guide/)
 - [faang interview links](https://faang-interview.github.io/)
+- [Interview Preparation](https://www.interviewbit.com/technical-interview-questions/#popular-guides)
 
 ## Leetcode:
 - [Grind 75 leetcode problems](https://www.techinterviewhandbook.org/grind75/)
@@ -41,6 +42,7 @@ This repository contains resources for preparing for Software Engineer interview
 - [Idempotent API Development](https://habr.com/ru/company/yandex/blog/442762/)
 - [New API Development Experiences](https://habr.com/ru/company/yandex/blog/583332/)
 - [15 System Design Building Blocks](https://blog.algomaster.io/p/15-system-design-building-blocks)
+- [Как построить систему, способную выдерживать нагрузку в 5 млн rps](https://habr.com/ru/companies/ozontech/articles/749328/)
 
 <details>
   <summary>System Design Blueprins:</summary>
@@ -65,7 +67,8 @@ This repository contains resources for preparing for Software Engineer interview
    - [О чем молчит EXPLAIN](https://habr.com/ru/company/tensor/blog/477624/)
 - Hibernate :
   - [Hibernate Performance Tuning Tips](https://vladmihalcea.com/hibernate-performance-tuning-tips)
-- [SQL vs NoSQL - Key Differences](https://blog.algomaster.io/p/design-spotify-system-design-interview) 
+- [SQL vs NoSQL - Key Differences](https://blog.algomaster.io/p/design-spotify-system-design-interview)
+- [SQL guide](https://db2-sql-cookbook.org/#_the_bad_old_days)
 <details>
   <summary>Database types:</summary>
   
