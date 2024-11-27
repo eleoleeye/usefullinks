@@ -2,8 +2,9 @@
 
 This repository contains resources for preparing for Software Engineer interviews and for general skill development. You will find useful links to articles, courses, and other materials to enhance your knowledge and expertise.
 
-# Interview 
+# faang 
 - [faang interview guide](https://www.techinterviewhandbook.org/software-engineering-interview-guide/)
+- [faang interview links](https://faang-interview.github.io/)
 
 ## Leetcode:
 - [Grind 75 leetcode problems](https://www.techinterviewhandbook.org/grind75/)
@@ -11,6 +12,7 @@ This repository contains resources for preparing for Software Engineer interview
   - [Patterns with examples](https://blog.algomaster.io/p/15-leetcode-patterns)
   - [Patterns to Master Dynamic Programming](https://blog.algomaster.io/p/20-patterns-to-master-dynamic-programming)
   - [Graph Algorithms for Coding Interviews](https://blog.algomaster.io/p/master-graph-algorithms-for-coding)
+-[links to algo](https://docs.google.com/document/d/1yMBDTeM49rm8Yni-BYzxakwSW3Ce_MKum65s6wEPQic/edit?tab=t.0#heading=h.khyvzwaknskh) 
 
 <details>
   <summary>Leetcode patterns schema:</summary>
