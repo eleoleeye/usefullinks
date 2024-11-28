@@ -13,7 +13,8 @@ This repository contains resources for preparing for Software Engineer interview
   - [Patterns with examples](https://blog.algomaster.io/p/15-leetcode-patterns)
   - [Patterns to Master Dynamic Programming](https://blog.algomaster.io/p/20-patterns-to-master-dynamic-programming)
   - [Graph Algorithms for Coding Interviews](https://blog.algomaster.io/p/master-graph-algorithms-for-coding)
--[links to algo](https://docs.google.com/document/d/1yMBDTeM49rm8Yni-BYzxakwSW3Ce_MKum65s6wEPQic/edit?tab=t.0#heading=h.khyvzwaknskh) 
+-[links to algo](https://docs.google.com/document/d/1yMBDTeM49rm8Yni-BYzxakwSW3Ce_MKum65s6wEPQic/edit?tab=t.0#heading=h.khyvzwaknskh)
+-[algo learning](https://labuladong.gitbook.io/algo-en)
 
 <details>
   <summary>Leetcode patterns schema:</summary>
