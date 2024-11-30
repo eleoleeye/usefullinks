@@ -76,7 +76,6 @@ This repository contains resources for preparing for Software Engineer interview
 </details>
 
 ## Java:
-- [Awesome Java: Curated List of Frameworks, Libraries, and Software](https://github.com/akullpp/awesome-java)
 - [Java Objects Inside Out (Shipilev)](https://shipilev.net/jvm/objects-inside-out/)
   - [YouTube Video on Java Objects Inside Out](https://www.youtube.com/watch?v=3BmznLJAgaA)
 - [Варим байткод на кухне JVM](https://habr.com/ru/company/domclick/blog/500646/)
@@ -94,14 +93,12 @@ This repository contains resources for preparing for Software Engineer interview
   - [NodeJS: How it Works](https://medium.com/webbdev/js-db3d35ffed7e)
 - Concurrency:
   - [Deep Dive into Java Memory Model](https://habr.com/ru/articles/685518/)
-  - [Code Review Checklist: Java Concurrency](https://github.com/code-review-checklists/java-concurrency)
   - [Java Concurrency and Multithreading Tutorial](http://tutorials.jenkov.com/java-concurrency/index.html)
   - [Classification and Use of Locks in Java](https://www.fatalerrors.org/a/classification-and-use-of-locks-in-java.html)
+  - [Code Review Checklist: Java Concurrency](https://github.com/code-review-checklists/java-concurrency)
 - Spring:
   - [Spring Transaction Management: @Transactional In-Depth](https://www.marcobehler.com/guides/spring-transaction-management-unconventional-guide)
   - [Bean Validation with Spring Boot](https://reflectoring.io/bean-validation-with-spring-boot/)
-  - [HTTP Cache with Spring Examples](http://dolszewski.com/spring/http-cache-with-spring-examples/)
-  - [Spring Integration: Dynamic Data Streams](https://habr.com/ru/post/509676/)
   - [Spring Cloud Netflix Microservices (Article Series)](https://medium.com/@kirill.sereda/spring-cloud-netflix-microservices-start-project-%D1%81%D0%B5%D1%80%D0%B8%D1%8F-%D1%81%D1%82%D0%B0%D1%82%D0%B5%D0%B9-%D1%87%D0%B0%D1%81%D1%82%D1%8C-1-7a892ad5f16)
 
 ## Authentication/Authorization:
