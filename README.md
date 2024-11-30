@@ -4,8 +4,8 @@ This repository contains resources for preparing for Software Engineer interview
 
 # faang 
 - [faang interview guide](https://www.techinterviewhandbook.org/software-engineering-interview-guide/)
-- [faang interview links + cheat sheets for tech tools](https://faang-interview.github.io/)
-- [Interview Preparation](https://www.interviewbit.com/technical-interview-questions/#popular-guides)
+- [faang interview links](https://faang-interview.github.io/)
+- [Interview Preparation + cheat sheets for tech tools](https://www.interviewbit.com/technical-interview-questions/#popular-guides)
 
 ## Leetcode:
 - [Grind 75 leetcode problems](https://www.techinterviewhandbook.org/grind75/)
