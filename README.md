@@ -30,8 +30,8 @@ This repository contains resources for preparing for Software Engineer interview
 - [Redis details](https://habr.com/ru/companies/nixys/articles/765694/)
 - [Distributed Transaction Patterns for Microservices](https://developers.redhat.com/articles/2021/09/21/distributed-transaction-patterns-microservices-compared)
 - [Design Patterns Collection](https://github.com/DovAmir/awesome-design-patterns)
-- [Idempotent API Development](https://habr.com/ru/company/yandex/blog/442762/)
-- [New API Development Experiences](https://habr.com/ru/company/yandex/blog/583332/)
+- [Taxi API Development part 1](https://habr.com/ru/company/yandex/blog/442762/)
+- [Taxi API Development part 2](https://habr.com/ru/company/yandex/blog/583332/)
 - [Как построить систему, способную выдерживать нагрузку в 5 млн rps](https://habr.com/ru/companies/ozontech/articles/749328/)
 - algo
   - [Raft/Paxos Algorithm Visualization](http://thesecretlivesofdata.com/)
