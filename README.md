@@ -22,7 +22,6 @@ This repository contains resources for preparing for Software Engineer interview
 </details>
 
 ## System Design:
-
 - [Learn System Design in a Hurry](https://www.hellointerview.com/learn/system-design/in-a-hurry/introduction)
 - [Learn how to design large-scale systems (System Design Primer)](https://github.com/donnemartin/system-design-primer)
 - [System design roadmap](https://roadmap.sh/system-design)
