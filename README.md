@@ -24,6 +24,7 @@ This repository contains resources for preparing for Software Engineer interview
 ## System Design:
 - [System design roadmap](https://roadmap.sh/system-design)
 - [System Design Cheatsheet](https://gist.github.com/vasanthk/485d1c25737e8e72759f)
+- [Learn System Design in a Hurry](https://www.hellointerview.com/learn/system-design/in-a-hurry/introduction)
 - [Learn how to design large-scale systems (System Design Primer)](https://github.com/donnemartin/system-design-primer)
 - [Kafka Definitive Guide](https://developer.confluent.io/courses/architecture/get-started/)
 - [Log: What Every Software Engineer Should Know](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
